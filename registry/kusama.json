@@ -6,5 +6,13 @@
         "shortDescription": "Company behind Nova Wallet",
         "longDescription": "We are building high quality and community-oriented apps for Polkadot & Kusama ecosystem",
         "isOrganization": true
+    },
+    {
+        "address": "DCZyhphXsRLcW84G9WmWEXtAA8DKGtVGSFZLJYty8Ajjyfa",
+        "name": "ChaosDAO",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/chaosdao.png",
+        "shortDescription": "Community org with a dedicated internal voting process and multisig for OpenGov referenda",
+        "longDescription": "ChaosDAO is a community organisation of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem, and due to our robust internal governance mechanism, we can make a collective democratic vote to ensure that only referendums that benefit the ecosystem are voted in.",
+        "isOrganization": true
     }
 ]

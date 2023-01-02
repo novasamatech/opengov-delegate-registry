@@ -12,7 +12,7 @@
         "name": "ChaosDAO",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/chaosdao.png",
         "shortDescription": "Community org with a dedicated internal voting process and multisig for OpenGov referenda",
-        "longDescription": "ChaosDAO is a community organisation of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem, and due to our robust internal governance mechanism, we can make a collective democratic vote to ensure that only referendums that benefit the ecosystem are voted in.",
+        "longDescription": "ChaosDAO is a curated community of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem as developers, community organizers, Twitter and YouTube educators, and as ordinary retail investors. As part of our own organization’s evolution we have developed a robust internal governance mechanism to determine how our community will publicly vote on referenda. By voting on behalf of the long-time Dotsama community we hope to ensure that only referenda that benefit the ecosystem are voted in.",
         "isOrganization": true
     }
 ]

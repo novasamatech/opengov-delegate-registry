@@ -25,14 +25,14 @@ Note: These are just examples and the actual format may vary.
 
 To share your information, please create a JSON file with the following format:
 
-```json
+```javascript
 {
-    "address": "substrate address in ss58 format",
-    "name": "name",
-    "image": "link to image",
-    "shortDescription": "short string no more than 256 chars",
-    "longDescription": "string, support markdown",
-    "isOrganization": "bool"
+    "address": string, //substrate address in ss58 format
+    "name": string, // Title wich will show in list
+    "image": string, // link to image,
+    "shortDescription": string, // no more than 256 chars,
+    "longDescription": string, // can be more than 256, support markdown,
+    "isOrganization": bool
 }
 ```
 

@@ -6,19 +6,19 @@ You should describe:
 - ...
 - ...
 
-Make sure you read the instructions on how to proof your identity:
+Make sure you read the instructions on how to prove your identity:
 
-https://docs.novawallet.io/nova-wallet-wiki/welcome-to-nova-wallet/about-nova-wallet
+https://docs.novawallet.io/nova-wallet-wiki/
 -->
 
 ## Identity proof
 
-That link to block explorer with extrinsic to proof your identity:
+Submit a link to a block explorer with the relevant extrinsic to prove your identity:
 
 https://www.subscan.io/
 
 ## Checklist
 
 - [ ] Image was added in opengov-delegate-registry/images/{meaningful_name}.png
-- [ ] Send transaction to the system.remark and attach link in that PR
+- [ ] Submit an on-chain transaction using the system.remark extrinsic type, and attach a link to it in your PR
 

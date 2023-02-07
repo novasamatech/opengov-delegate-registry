@@ -6,10 +6,16 @@ In this repository, we aim to create a comprehensive directory of individuals an
 
 Here are a few examples of what your information could look like in the directory:
 
+<details>
+  <summary>Nova Wallet app screens</summary>
+
 <img src="https://i.ibb.co/TL35ZWn/Screenshot-2023-02-07-at-11-12-21.png" width="100">
 <img src="https://i.ibb.co/3RzBqb1/Screenshot-2023-02-07-at-11-14-00.png" width="100">
 <img src="https://i.ibb.co/XDZNBt4/Screenshot-2023-02-07-at-11-14-03.png" width="100">
 <img src="https://i.ibb.co/HB5544w/Screenshot-2023-02-07-at-11-14-06.png" width="100">
+
+</details>
+
 
 Note: These are just examples and the actual format may vary.
 

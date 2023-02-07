@@ -6,14 +6,14 @@ You should describe:
 - ...
 - ...
 
-Make sure you read the instructions on how to prove your identity:
+Make sure you read the instructions on how to proof your identity:
 
 https://docs.novawallet.io/nova-wallet-wiki/welcome-to-nova-wallet/about-nova-wallet
 -->
 
-## Subscan link
+## Identity proof
 
-That link with extrinsic to proof identity:
+That link to block explorer with extrinsic to proof your identity:
 
 https://www.subscan.io/
 

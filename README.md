@@ -38,7 +38,7 @@ To share your information, please create a JSON file with the following format:
 
 - `address`: Your Substrate address in [ss58 format](https://substrate.dev/docs/en/learn/address-format).
 - `name`: Your name or the name of your organization.
-- `image`: A link to an image that represents you or your organization.
+- `image`: A link to an image that represents you or your organization. It should be in `.png` format and store in [that repo](./images)
 - `shortDescription`: A short description of yourself or your organization (no more than 256 characters).
 - `longDescription`: A more detailed description of yourself or your organization, which can include markdown syntax for formatting.
 - `isOrganization`: A boolean value indicating whether you are an individual or an organization.

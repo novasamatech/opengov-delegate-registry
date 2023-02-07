@@ -1,11 +1,12 @@
 # Welcome to the Delegate Registry!
 
-In this repository, we aim to create a comprehensive directory of individuals and organizations in the [Substrate](https://substrate.io) ecosystem to share their delegators' information in the [Nova Wallet](https://novawallet.io/)
+In this repository, we aim to create a comprehensive directory of individuals and organizations in the [Substrate](https://substrate.io) ecosystem to share their delegator information in the [Nova Wallet](https://novawallet.io/)
 
 ## How it looks like
 
 Here are a few examples of what your information could look like in the directory:
 
+</br>
 <details>
   <summary>Nova Wallet app screens</summary>
 
@@ -15,7 +16,7 @@ Here are a few examples of what your information could look like in the director
 <img src="https://i.ibb.co/HB5544w/Screenshot-2023-02-07-at-11-14-06.png" width="100">
 
 </details>
-
+</br>
 
 Note: These are just examples and the actual format may vary.
 

@@ -30,5 +30,13 @@
         "shortDescription": "Kusama Council & Validator Operator at ParaNodes.io",
         "longDescription": "## About me\nMy name is Will and I'm a member of Kusama's outgoing council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
         "isOrganization": false
+    },
+    {
+        "address": "GCMGu8sjEuEZuMZavo5PLvAhr8fJXAty76jDV1YPquG9erp",
+        "name": "CoinStudio",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",
+        "shortDescription": "Kusama and Polkadot Validator, Governance participant  ",
+        "longDescription": "Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
+        "isOrganization": false
     }
 ]

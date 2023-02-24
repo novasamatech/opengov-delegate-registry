@@ -30,5 +30,13 @@
         "shortDescription": "Kusama Council & Validator Operator at ParaNodes.io",
         "longDescription": "## About me\nMy name is Will and I'm a member of Kusama's outgoing council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
         "isOrganization": false
+    },
+    {
+        "address": "GU77syTfPXdzKCuqASura9ZKgxmD2rEDhj89c9TGL6vc9Qw",
+        "name": "Math Crypto",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/paradox.png",
+        "shortDescription": "Active OpenGov contributor | 1kv validator",
+        "longDescription": "We run [validators for Kusama and Polkadot](https://www.math-crypto.com/) within the 1kv programme. From the beginning of OpenGov, we have contributed to governance by participating in discussions, diligently voting on each proposal, and making user-friendly tools for participating in OpenGov. \n Delegation to MathCrypto means that you care about proposals that focus on a decentralized but secure validator network, developing novel use-cases for Dotsama, and cost efficient education and media content.",
+        "isOrganization": false
     }
 ]

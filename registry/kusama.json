@@ -34,7 +34,7 @@
     {
         "address": "GU77syTfPXdzKCuqASura9ZKgxmD2rEDhj89c9TGL6vc9Qw",
         "name": "Math Crypto",
-        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/paradox.png",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/mathcrypto.png",
         "shortDescription": "Active OpenGov contributor | 1kv validator",
         "longDescription": "We run [validators for Kusama and Polkadot](https://www.math-crypto.com/) within the 1kv programme. From the beginning of OpenGov, we have contributed to governance by participating in discussions, diligently voting on each proposal, and making user-friendly tools for participating in OpenGov. \n Delegation to MathCrypto means that you care about proposals that focus on a decentralized but secure validator network, developing novel use-cases for Dotsama, and cost efficient education and media content.",
         "isOrganization": false

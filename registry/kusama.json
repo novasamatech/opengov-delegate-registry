@@ -30,5 +30,13 @@
         "shortDescription": "Kusama Council & Validator Operator at ParaNodes.io",
         "longDescription": "## About me\nMy name is Will and I'm a member of Kusama's outgoing council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
         "isOrganization": false
+    },
+    {
+        "address": "HWyLYmpW68JGJYoVJcot6JQ1CJbtUQeTdxfY1kUTsvGCB1r",
+        "name": "Sik | crifferent.de",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/sik-crifferent.png",
+        "shortDescription": "DotSama native node operator and community supporter",
+        "longDescription": "## About Sik\nFounder of [Crifferent Staking Services](https://crifferent.de)<br/>Developer for [Staking Facilities](https://stakingfacilities.com)<br/>Member of [DOT Validator Alliance DAO](https://dotvalidators.org)<br/>Team member @ [HydraDX](https://hydradx.io)/[Basilisk](https://bsx.fi)<br/>RPC provider @ [UnitedBloc](https://unitedbloc.com/)<br/>Member of the [Infrastructure Builders Program](https://ibp.network/)\n\n---\n\n**From within the ecosystem - for the ecosystem!**<br/>_I'm evaluating proposals by taking different views into consideration. I'm not only looking at it from the perspective of a community member, but also as a developer/founder/infra-provider/human being._\n\n---\n## Contact me\n@dev0_sik @ [Twitter](https://twitter.com/dev0_sik)<br />@dev0_sik @[Telegram](https://t.me/dev0_sik)<br />sik#3706 @ [Discord](https://discord.com/)<br />@dev0_sik:matrix.org @ [Element](https://element.io/)<br />[simon.kraus@crifferent.de](mailto:simon.kraus@crifferent.de)<br />WhatsApp/Callboy +49 157 377 309 02",
+        "isOrganization": false
     }
 ]

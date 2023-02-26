@@ -30,5 +30,13 @@
         "shortDescription": "Kusama Council & Validator Operator at ParaNodes.io",
         "longDescription": "## About me\nMy name is Will and I'm a member of Kusama's outgoing council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
         "isOrganization": false
+    },
+    {
+        "address": "EcRZnQmd7NHLRYNFnHiiWHm1Xd1VSEZufB7ZviGTX25xoDh",
+        "name": "😐 ghost | 🪬",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/ghost-192.png",
+        "shortDescription": "COO @ 🪬",
+        "longDescription": "I am who I am because of the choices I made yesterday.\n– First Lady Eleanor Roosevelt\n\nFor Polkadot to succeed, we need to take stewardship of the ecosystem seriously and work to build processes and conventions that enable us to make decisions that benefit users. Growth is enabled by superior technology, but that is not sufficient; it will require that we successfully navigate the needs of stakeholders in the real world, including technologists, businesses, organizations, governments, and, ultimately, regular citizens worldwide.",
+        "isOrganization": false
     }
 ]

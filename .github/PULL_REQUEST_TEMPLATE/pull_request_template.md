@@ -1,21 +1,11 @@
 ## Description
 
 <!-- Briefly describe the changes made in this pull request,
-You should describe:
-- ...
-- ...
-- ...
 
 Make sure you read the instructions on how to prove your identity:
 
-https://docs.novawallet.io/nova-wallet-wiki/
+https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information
 -->
-
-## Identity proof
-
-Submit a link to a block explorer with the relevant extrinsic to prove your identity:
-
-https://www.subscan.io/
 
 ## Checklist
 

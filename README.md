@@ -6,11 +6,16 @@ In this repository, we aim to create a comprehensive directory for individuals a
 
 Here are a few examples of how your information could be displayed in the directory:
 
+</br>
+<details>
+  <summary>Nova Wallet app screens</summary>
 
 <img src="./images/add_delegation.PNG" width="100">
 <img src="./images/delegate_info.PNG" width="100">
 <img src="./images/long_desription.PNG" width="100">
 
+</details>
+</br>
 
 Note: These are just examples, and your actual format may vary.
 

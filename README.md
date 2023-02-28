@@ -10,9 +10,9 @@ Here are a few examples of how your information could be displayed in the direct
 <details>
   <summary>Nova Wallet app screens</summary>
 
-<img src="./images/add_delegation.PNG" width="100">
-<img src="./images/delegate_info.PNG" width="100">
-<img src="./images/long_desription.PNG" width="100">
+<img src="./images/add_delegation.PNG" width="300">
+<img src="./images/delegate_info.PNG" width="300">
+<img src="./images/long_desription.PNG" width="300">
 
 </details>
 </br>

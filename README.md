@@ -6,17 +6,11 @@ In this repository, we aim to create a comprehensive directory for individuals a
 
 Here are a few examples of how your information could be displayed in the directory:
 
-</br>
-<details>
-  <summary>Nova Wallet app screens</summary>
 
-<img src="https://i.ibb.co/TL35ZWn/Screenshot-2023-02-07-at-11-12-21.png" width="100">
-<img src="https://i.ibb.co/3RzBqb1/Screenshot-2023-02-07-at-11-14-00.png" width="100">
-<img src="https://i.ibb.co/XDZNBt4/Screenshot-2023-02-07-at-11-14-03.png" width="100">
-<img src="https://i.ibb.co/HB5544w/Screenshot-2023-02-07-at-11-14-06.png" width="100">
+<img src="./images/add_delegation.PNG" width="100">
+<img src="./images/delegate_info.PNG" width="100">
+<img src="./images/long_desription.PNG" width="100">
 
-</details>
-</br>
 
 Note: These are just examples, and your actual format may vary.
 
@@ -47,7 +41,8 @@ To share your information, please create a JSON file with the following format:
 ## Pull requests
 
 Please submit your information as a pull request to this repository. We will review your submission and add it to the directory once approved.
+[Tutorial](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) are available in our wiki.
 
 ## Directory
 
-A list of networks with information about individuals and organizations in the Substrate ecosystem can be found [here](./registry).
+A list of networks with information about individuals and organizations in the Substrate ecosystem can be found [here](./registry). Networks are divided into separate files, make sure you choose the right one.

@@ -37,6 +37,6 @@
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",
         "shortDescription": "Kusama and Polkadot Validator, Governance participant  ",
         "longDescription": "Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
-        "isOrganization": false
+        "isOrganization": true
     }
 ]

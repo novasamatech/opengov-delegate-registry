@@ -32,6 +32,13 @@
         "isOrganization": false
     },
     {
+        "address": "HERTWZK4ZpmuXsEgW3UfL5x27XCdT5fE9x4QRbyNWifafdU",
+        "name": "Stake.Plus",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/stakeplus.png",
+        "shortDescription": "Validation, Collation and Infrastructure Services",
+        "longDescription": "We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware powered by renewable energy.",
+        "isOrganization": true
+    },
         "address": "GCMGu8sjEuEZuMZavo5PLvAhr8fJXAty76jDV1YPquG9erp",
         "name": "CoinStudio",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",

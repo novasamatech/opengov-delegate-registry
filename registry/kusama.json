@@ -12,7 +12,7 @@
         "name": "ChaosDAO",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/chaosdao.png",
         "shortDescription": "Community org with a dedicated internal voting process and multisig for OpenGov referenda",
-        "longDescription": "ChaosDAO is a curated community of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem as developers, community organizers, Twitter and YouTube educators, and as ordinary retail investors. As part of our own organization’s evolution we have developed a robust internal governance mechanism to determine how our community will publicly vote on referenda. By voting on behalf of the long-time Dotsama community we hope to ensure that only referenda that benefit the ecosystem are voted in.",
+        "longDescription": "## About us\nChaosDAO is a curated community of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem as developers, community organizers, [Twitter](https://twitter.com/ChaosDAO) and YouTube educators, and as ordinary retail investors.\n\n## Voting Process\nAs part of our own organization’s evolution we have developed a robust [internal governance mechanism](https://github.com/ChaosDAO-org/ChaosDAO_docs/blob/main/governance/OpenGov.md) to determine how our community will publicly vote on referenda. By voting on behalf of the long-time Dotsama community we strive to ensure that all votes we cast reflect the true best interests of our native ecosystem.\n\n![ChaosDAO Manifesto image](https://raw.githubusercontent.com/ChaosDAO-org/ChaosDAO_docs/main/.gitbook/assets/ChaosDAO_Manifesto_600px.jpg)",
         "isOrganization": true
     },
     {
@@ -38,5 +38,27 @@
         "shortDescription": "Hi I'm Leemo! A frequent governance enjoyoooor and active Polkadot ecosystem community member.",
         "longDescription": "## About Me\n\n😻 Chief Nice Officer at Nova Wallet\n\n🤖 Doing cool shit with Robonomics\n\n☯️ Co-founder of ChaosDAO\n\n🌅 Co-founder of GmOrDie\n\n🐍 Councillor at HydraDX & Basilisk\n\nI'm an active Polkadot ecosystem governance participator, and often share my insights over at [my Twitter](https://twitter.com/LeemoXD), within various communities such as ChaosDAO, Polkahaus, and the Polkadot/Kusama directions channel.\n\nI frequent the weekly episodic podcast [Attempts at Governance](https://www.youtube.com/watch?v=hboOYAmindk&list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV), where I often give updates about governance topics and participate in discussion.\n\nI'm often looking for new ways for communities to excel in Governance and have lead the implementation and continued operations of ChaosDAO's governance participation. You can find out more about this setup [in this video](https://www.youtube.com/watch?v=MqY6yU-YLO0).\n\n## Voting Methodology\nI typically have been delegating most of my voting power to ChaosDAO – however, depending on the interest of the community to delegate to me, I will vote independently also, and will likely follow a similar direction to that of ChaosDAO.",
         "isOrganization": false
-    }
+    },
+        "address": "HERTWZK4ZpmuXsEgW3UfL5x27XCdT5fE9x4QRbyNWifafdU",
+        "name": "Stake.Plus",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/stakeplus.png",
+        "shortDescription": "Validation, Collation and Infrastructure Services",
+        "longDescription": "We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware powered by renewable energy.",
+        "isOrganization": true
+    },
+        "address": "GCMGu8sjEuEZuMZavo5PLvAhr8fJXAty76jDV1YPquG9erp",
+        "name": "CoinStudio",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",
+        "shortDescription": "Kusama and Polkadot Validator, Governance participant  ",
+        "longDescription": "Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
+        "isOrganization": true
+    },
+    {
+        "address": "HWyLYmpW68JGJYoVJcot6JQ1CJbtUQeTdxfY1kUTsvGCB1r",
+        "name": "Sik | crifferent.de",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/sik-crifferent.png",
+        "shortDescription": "DotSama native node operator and community supporter",
+        "longDescription": "## About Sik\nFounder of [Crifferent Staking Services](https://crifferent.de) \n\nDeveloper for [Staking Facilities](https://stakingfacilities.com) \n\nMember of [DOT Validator Alliance DAO](https://dotvalidators.org) \n\nTeam member @[HydraDX](https://hydradx.io)/[Basilisk](https://bsx.fi) \n\nRPC provider @[UnitedBloc](https://unitedbloc.com/) \n\nMember of the [Infrastructure Builders Program](https://ibp.network/)\n\n---\n\n**From within the ecosystem - for the ecosystem!** \n\nI'm evaluating proposals by taking different views into consideration. I'm not only looking at it from the perspective of a community member, but also as a developer/founder/infra-provider/human being. \n\n---\n## Contact me \n\n@dev0_sik @[Twitter](https://twitter.com/dev0_sik) \n\n@dev0_sik @[Telegram](https://t.me/dev0_sik) \n\nsik#3706 @[Discord](https://discord.com/) \n\n@dev0_sik:matrix.org @[Element](https://element.io/) \n\n[simon.kraus@crifferent.de](mailto:simon.kraus@crifferent.de) \n\nWhatsApp/Callboy +49 157 377 309 02",
+        "isOrganization": false
+     }
 ]

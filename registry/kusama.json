@@ -34,7 +34,7 @@
     {
         "address": "GCMGu8sjEuEZuMZavo5PLvAhr8fJXAty76jDV1YPquG9erp",
         "name": "CoinStudio",
-        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",
+        "image": "https://raw.githubusercontent.com/stepanLav/opengov-delegate-registry/test/coin_studio/registry/images/coinstudio.png",
         "shortDescription": "Kusama and Polkadot Validator, Governance participant  ",
         "longDescription": "Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
         "isOrganization": false

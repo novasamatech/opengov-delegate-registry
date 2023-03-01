@@ -32,6 +32,13 @@
         "isOrganization": false
     },
     {
+        "address": "CrbJuFZWjY3yft424EMTY9hdbWoU878DFs74v3a8nNDeKJD",
+        "name": "Leemo",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Leemo.png",
+        "shortDescription": "Hi I'm Leemo! A frequent governance enjoyoooor and active Polkadot ecosystem community member.",
+        "longDescription": "## About Me\n\n😻 Chief Nice Officer at Nova Wallet\n\n🤖 Doing cool shit with Robonomics\n\n☯️ Co-founder of ChaosDAO\n\n🌅 Co-founder of GmOrDie\n\n🐍 Councillor at HydraDX & Basilisk\n\nI'm an active Polkadot ecosystem governance participator, and often share my insights over at [my Twitter](https://twitter.com/LeemoXD), within various communities such as ChaosDAO, Polkahaus, and the Polkadot/Kusama directions channel.\n\nI frequent the weekly episodic podcast [Attempts at Governance](https://www.youtube.com/watch?v=hboOYAmindk&list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV), where I often give updates about governance topics and participate in discussion.\n\nI'm often looking for new ways for communities to excel in Governance and have lead the implementation and continued operations of ChaosDAO's governance participation. You can find out more about this setup [in this video](https://www.youtube.com/watch?v=MqY6yU-YLO0).\n\n## Voting Methodology\nI typically have been delegating most of my voting power to ChaosDAO – however, depending on the interest of the community to delegate to me, I will vote independently also, and will likely follow a similar direction to that of ChaosDAO.",
+        "isOrganization": false
+    },
         "address": "HERTWZK4ZpmuXsEgW3UfL5x27XCdT5fE9x4QRbyNWifafdU",
         "name": "Stake.Plus",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/stakeplus.png",

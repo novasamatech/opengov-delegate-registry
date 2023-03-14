@@ -32,6 +32,14 @@
         "isOrganization": false
     },
     {
+        "address": "EcRZnQmd7NHLRYNFnHiiWHm1Xd1VSEZufB7ZviGTX25xoDh",
+        "name": "😐 ghost | 🪬",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/ghost-192.png",
+        "shortDescription": "COO @ 🪬",
+        "longDescription": "I am who I am because of the choices I made yesterday.\n– First Lady Eleanor Roosevelt\n\nFor Polkadot to succeed, we need to take stewardship of the ecosystem seriously and work to build processes and conventions that enable us to make decisions that benefit users. Growth is enabled by superior technology, but that is not sufficient; it will require that we successfully navigate the needs of stakeholders in the real world, including technologists, businesses, organizations, governments, and, ultimately, regular citizens worldwide.",
+        "isOrganization": false
+    },
+    {
         "address": "GqC37KSFFeGAoL7YxSeP1YDwr85WJvLmDDQiSaprTDAm8Jj",
         "name": "Adam Clay Steeber",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/adam_clay_steeber_nova.png",
@@ -85,6 +93,14 @@
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Abdulbee_Nova.jpg",
         "shortDescription": "Polkadot Community Moderator, Anti-Scam executive team member, Head ambassador for content, a Rust afficionado",
         "longDescription": "## About Abdulbee\n\nMy name is Abdulbasit (Abdulbee), a Rust afficionado/technical writer who currently contributes full-time in the ecosystem as a Polkadot head ambassador for content, an executive team member of the Polkadot anti-scam team, a community moderator of Polkadot’s official channels, and a QA officer at Dot.alert().\n\nI also currently curate two bounties (the anti-scam bounty and the community moderation team bounty).\n\nMy ecosystem philosophy is that good reputation (within or outside the ecosystem) is a good internal incentive for successful deliveries and that a key criteria to take into consideration when making governance decisions is the reputation of teams/individuals who submit proposals via governance. \n\nYou can reach me on discord (abdulbee#4681) or matrix (abdulbee:matrix.org). \n\nThank you!",
+        "isOrganization": false
+     },
+     {
+        "address": "FLKBjcL1hXtX7PHF5zrVwQTWQSKg7PCMQ5w6ZU7qvQGsvZR",
+        "name": "KRYPTOSCHAIN",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/KryptosChain_Logo.png",
+        "shortDescription": "Polkadot and Kusama Content Creator",
+        "longDescription": "Content Creator for the Polkadot & Kusama ecosystems since late 2020 (soon after launch) and a Crypto Content Creator since 2018 : https://www.youtube.com/c/kryptoschain and on Twitter: https://twitter.com/KryptosChain I'm also an active contributor to Open Governance.",
         "isOrganization": false
      }
 ]

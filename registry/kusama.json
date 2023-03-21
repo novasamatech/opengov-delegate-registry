@@ -110,5 +110,13 @@
          "shortDescription": "Web3 buildooor @ Astar Network & validator",
          "longDescription": "## About bLd\n\nDevops engineer at [Astar Network](https://astar.network) \n\nValidator at [bLd Nodes](https://bldnodes.org) \n\nMember of [DOT Validator Alliance DAO](https://dotvalidators.org) \n\nOrganizer at [ParisDotComm](https://parisdotcomm.org) \n\nCurator for [IBP program](https://ibp.network) \n\n---\n\nVoting constantly with conviction, I believe governance is the affair of everyone and public blockchain is a common good.\nMy votes represent my personal opinions, not in any case the views of any of my organisations.\nI happily explain my votes to anyone reaching and change my vote when I'm proved mistaken.  \n\n## Contact \n\n@[Twitter](https://twitter.com/bLd77) @bLd77 \n\n@[Telegram](https://t.me/bLd759) @bLd759 \n\n@[Github](https://github.com/bLd75) @bLd75",
          "isOrganization": false
-     }
+     },
+     {
+        "address": "JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq",
+        "name": "DOZENODES",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",
+        "shortDescription": "Kusama Validator Operator www.dozendoes.com",
+        "longDescription": "## About me\nMy name is Marcin and I'm the main technical guy behind dozenodes.com.\nI'm an active memeber of communities for multiple project in dotsama ecosytem\n I have vast technical expirience which allows me to properly assess proposed changes.\n Feel free to contact me via contact section of dozenodes.com.",
+        "isOrganization": false
+    }
 ]

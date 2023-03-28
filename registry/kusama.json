@@ -120,6 +120,14 @@
          "isOrganization": false
      },
      {
+        "address": "H1tAQMm3eizGcmpAhL9aA9gR844kZpQfkU7pkmMiLx9jSzE",
+        "name": "TurboFlakes",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/turboflakes.png",
+        "shortDescription": "We Validate, Collate, Build and Vote for the Polkadot future",
+        "longDescription": "## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100% renewable energy for the common good.\n\nWe believe in the Web3 vision of a decentralized web. We love experimentation and ideation.\n\nIn Open Governance we participate and support proposals that overall would bring joy, evolution and success to the Polkadot ecosystem.\n\nRead more about us at https://turboflakes.io",
+        "isOrganization": true
+     },
+     {
         "address": "JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq",
         "name": "DOZENODES",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",

@@ -123,7 +123,7 @@
         "address": "JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq",
         "name": "DOZENODES",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",
-        "shortDescription": "Kusama Validator Operator www.dozenodes.com",
+        "shortDescription": "Kusama Validator Operator www.dozendoes.com",
         "longDescription": "## About me\n\nMy name is Marcin and I'm the main technical guy behind dozenodes.com.\n\nI'm an active memeber of communities for multiple project in dotsama ecosytem\n\n I have vast technical expirience which allows me to properly assess proposed changes.\n\n Feel free to contact me via contact section of dozenodes.com.",
         "isOrganization": false
     },
@@ -142,5 +142,13 @@
         "shortDescription": "A creative conspiracy - we deliver network services to on-chain governed blockchains through the applied research & development of tools, processes and projects that release the creative potential of connected minds.",
         "longDescription": "We provide network services to public blockchains - sourcing, developing and supporting creative talent both inside and outside the Kusama ecosystem - check out website [here](https://decent.partners). We have kickstarted, coordinated and delivered over 25 on-chain projects in [Edgeware](https://forum.polkadot.network/t/re-introducing-edgeware-substrates-most-chaotic-governance-experiment-and-second-oldest-mainnet/500), Substrate's second oldest mainnet including the development of [Kabocha](https://kabocha.network) the _media lab of Kusama_ that was created entirely through interlinked on-chain proposals. Our experience is rooted in building global on-line communities across early, mid and late state social networks, co-founding [Copa90](https://copa90.com), leading [Guardian Media Group](https://www.theguardian.com/gmg), [Comic Relief](https://www.comicrelief.com/) and [Virgin Unite](https://unite.virgin.com/), running largescale crypto-currency mining operations and listed companies alongside working with clients such as BBC, Channel 4, Nike, Red Bull, Spotify and Apple Music",
         "isOrganization": true
-    }
+    },
+    {
+        "address": "DG8Q1VmFkmDwuKDN9ZqdB78W6BiXTX5Z33XzZNAykuB5nFh",
+        "name": "DrCAO | Web3 Education And Investment",
+        "image": "https://github.com/ahjxcrz/opengov-delegate-registry/blob/master/images/logo_WEAI.png",
+        "shortDescription": "DrCAO - Dotsama Content Creator",
+        "longDescription": "Content creator for dotsama and long term supporter: https://www.youtube.com/channel/UCi8YP0VB_gfOLtmp0sgLYew and on Twitter: https://twitter.com/cao_lab. I am mod/CM in few parachain projects.",
+        "isOrganization": false
+     }
 ]

@@ -166,6 +166,13 @@
         "shortDescription": "AIWeb3 Chinese community",
         "longDescription": "The mission of the AIWeb3 Chinese community is to continue building the Dotsama community, supporting Chinese content creators to focus on content creation related to Dotsama, establishing connections with different parachain projects, and providing the latest information about Dotsama. Chinese content creators can focus on researching and producing high-quality content, including dubbing, translation, and original content within Dotsama. Additionally, we will allocate more resources to support early stage content creators, helping them establish their audience and brand.",
         "isOrganization": true
-     }    
-    
+     },    
+     {
+        "address": "EAMbhBVW7SpJfH332uABbDNtsbNnaZBBXeGJwdfxkxkPm6o",
+        "name": "Dotcast",
+        "image": "https://github.com/D0tcast/opengov-delegate-registry/blob/8bc295ec75bdf4eb85ab771759fed0011fa14716/images/Dotcast%20Expect%20Chaos.png",
+        "shortDescription": "Dotcast Community",
+        "longDescription": "Dotcast believes that Open Gov is a key factor related to adoption and participation in governance should be encouraged among our community.",
+        "isOrganization": false
+     }
 ]

@@ -170,7 +170,7 @@
      {
         "address": "EAMbhBVW7SpJfH332uABbDNtsbNnaZBBXeGJwdfxkxkPm6o",
         "name": "Dotcast",
-        "image": "https://github.com/D0tcast/opengov-delegate-registry/blob/8bc295ec75bdf4eb85ab771759fed0011fa14716/images/Dotcast%20Expect%20Chaos.png",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Dotcast%20Expect%20Chaos.png",
         "shortDescription": "Dotcast Community",
         "longDescription": "Dotcast believes that Open Gov is a key factor related to adoption and participation in governance should be encouraged among our community.",
         "isOrganization": false

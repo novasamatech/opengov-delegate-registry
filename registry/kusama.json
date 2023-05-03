@@ -166,6 +166,14 @@
         "shortDescription": "AIWeb3 Chinese community",
         "longDescription": "The mission of the AIWeb3 Chinese community is to continue building the Dotsama community, supporting Chinese content creators to focus on content creation related to Dotsama, establishing connections with different parachain projects, and providing the latest information about Dotsama. Chinese content creators can focus on researching and producing high-quality content, including dubbing, translation, and original content within Dotsama. Additionally, we will allocate more resources to support early stage content creators, helping them establish their audience and brand.",
         "isOrganization": true
-     }    
+     },
+     {
+        "address": "CrhqZ5oPjYSA92ZjxA1jguCrjKvjT3jR4HoHbuHbrVwEqB6",
+        "name": "Georgi 🧩",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/georgi.png",
+        "shortDescription": "As a committed Kusama member, I have a deep understanding of governance and am an impartial advocate for treasury funds.",
+        "longDescription": " ## About me, \n\n As a dedicated member of the Kusama ecosystem, I am passionate about the potential of blockchain technology to transform society.\n\n I am an advocate for transparency, accountability, and fairness in governance, and my impartiality allows me to make informed decisions that benefit the ecosystem as a whole.\n\n As the founder of Polkadot Prodigy and the development community in Bulgaria, \n\n I am committed to fostering collaboration, innovation, and growth within the Polkadot ecosystem.",
+        "isOrganization": false
+     }
     
 ]

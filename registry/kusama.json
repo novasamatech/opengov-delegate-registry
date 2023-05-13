@@ -182,5 +182,13 @@
         "shortDescription": "As a committed Kusama member, I have a deep understanding of governance and am an impartial advocate for treasury funds.",
         "longDescription": " ## About me, \n\n As a dedicated member of the Kusama ecosystem, I am passionate about the potential of blockchain technology to transform society.\n\n I am an advocate for transparency, accountability, and fairness in governance, and my impartiality allows me to make informed decisions that benefit the ecosystem as a whole.\n\n As the founder of Polkadot Prodigy and the development community in Bulgaria, \n\n I am committed to fostering collaboration, innovation, and growth within the Polkadot ecosystem.",
         "isOrganization": false
+     },
+     {
+        "address": "EoEbHHafqKAv9j8VAvELkSkrV7CpEQ34q2SsqY8xJaCt2kf",
+        "name": "test tutorial dotcast",
+        "image": "https://raw.githubusercontent.com/dotcast-tutorial/opengov-delegate-registry/3cf91c4d74c6b13c5c48c25132757290a1b0be17/images/POLKADOTMZA%20LOGO-07.png",
+        "shortDescription": "Test tutorial dotcast",
+        "longDescription": "this account is for make a tutorial, please dont delegate",
+        "isOrganization": false
      }
 ]

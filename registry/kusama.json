@@ -182,5 +182,13 @@
         "shortDescription": "As a committed Kusama member, I have a deep understanding of governance and am an impartial advocate for treasury funds.",
         "longDescription": " ## About me, \n\n As a dedicated member of the Kusama ecosystem, I am passionate about the potential of blockchain technology to transform society.\n\n I am an advocate for transparency, accountability, and fairness in governance, and my impartiality allows me to make informed decisions that benefit the ecosystem as a whole.\n\n As the founder of Polkadot Prodigy and the development community in Bulgaria, \n\n I am committed to fostering collaboration, innovation, and growth within the Polkadot ecosystem.",
         "isOrganization": false
+     },
+     {
+        "address": "EpeeGt1x3kju8TZmfcaHTkBwTn7eyq4Sxy8Z3dPU88chMcN",
+        "name": "CertHum, Inc.",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/CertHum%20Logo3-192x192.png",
+        "shortDescription": "CertHum.com - Community Validator",
+        "longDescription": "CertHum is a community validator that provides Web3 infrastructure in support of decentralization.",
+        "isOrganization": true
      }
 ]

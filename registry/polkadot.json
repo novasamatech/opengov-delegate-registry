@@ -6,5 +6,13 @@
         "shortDescription": "Community org with a dedicated internal voting process and multisig for OpenGov referenda",
         "longDescription": "## About us\nChaosDAO is a curated community of Polkadot & Kusama natives. Our members are involved with every aspect of the ecosystem as developers, community organizers, [Twitter](https://twitter.com/ChaosDAO) and YouTube educators, and as ordinary retail investors.\n\n## Voting Process\nAs part of our own organization’s evolution we have developed a robust [internal governance mechanism](https://github.com/ChaosDAO-org/ChaosDAO_docs/blob/main/governance/OpenGov.md) to determine how our community will publicly vote on referenda. By voting on behalf of the long-time Dotsama community we strive to ensure that all votes we cast reflect the true best interests of our native ecosystem.\n\n![ChaosDAO Manifesto image](https://raw.githubusercontent.com/ChaosDAO-org/ChaosDAO_docs/main/.gitbook/assets/ChaosDAO_Manifesto_600px.jpg)",
         "isOrganization": true
+    },
+    {
+        "address": "15D2JM548bqRuE45aDmeF2WqiKC56WtNnRmCxVSree9YKwVb",
+        "name": "Will | Paradox | ParaNodes.io",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/paradox.png",
+        "shortDescription": "Former Kusama Council Member & Validator Operator at ParaNodes.io",
+        "longDescription": "## About me\nMy name is Will and I was a member of Kusama's council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
+        "isOrganization": false
     }
 ]

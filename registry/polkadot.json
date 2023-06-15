@@ -14,5 +14,13 @@
         "shortDescription": "Former Kusama Council Member & Validator Operator at ParaNodes.io",
         "longDescription": "## About me\nMy name is Will and I was a member of Kusama's council.  My council experience allows me to better understand the technical aspects of governance and appreciate the general 'values' of the chain.\n\nI am also a well known within the validator community and operate validators under the moniker [ParaNodes.io](https://paranodes.io).\n\nIf you'll like to hear my thoughts on governance, please tune in to [AAG](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) I make live appearances on the first Monday of each month.",
         "isOrganization": false
+    },
+    {
+        "address": "15cfSaBcTxNr8rV59cbhdMNCRagFr3GE6B3zZRsCp4QHHKPu",
+        "name": "Anton Khvorov",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/day_7.jpg",
+        "shortDescription": "CEO @ Novasama Technologies",
+        "longDescription": "## About me\nMy name is Anton Khvorov, I’m CEO of [Novasama Technologies](https://novasama.io) & Head of Engineering @ [Nova Wallet](https://novawallet.io).\nPassionate to build new innovative & amazing\nproducts, with a mindset to make the world a better place.\n\n## Voting strategy \n\nI do support referendums focused on the core values of Polkadot (decentralization, democracy, interoperability, reliability), as well as referendums that are focused on brining the power of Polkadot to mass adoption (products with great UX, open source, etc). \n\nI do not support entities that are active against any of these values and/or human rights. \n\nI often express my opinion on Polkassembly, especially in the case of controversial referendums.\n\n## Incentives\nEach month I’m going to mint & send NFT with my cat to each of my fellow delegators! 🐊\n\n![](https://i.ibb.co/5YtW1hn/Pelmeshka-small.jpg)\n\n## Stay in touch!\nIf you have any questions regarding my votes, feel free to contact me via email: anton@novawallet.io",
+        "isOrganization": false
     }
 ]

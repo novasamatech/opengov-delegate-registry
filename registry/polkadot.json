@@ -1,4 +1,12 @@
 [
+     {
+        "address": "13zayGEv1goe6mPVNFtyyUFZTeL4QkZvE9aK1vJdLMRCMQRF",
+        "name": "Polkadot BizDev",
+        "image": "https://github.com/nickdunford/opengov-delegate-registry/blob/master/images/Polkadot%20BizDev.png?raw=true",
+        "shortDescription": "Experienced Polkadot Business Development ('BizDev') executives focused on the growth of Polkadot.",
+        "longDescription": "## About Us\nPolkadot BizDev are experienced Polkadot Business Development ('BizDev') executives that focus on driving forward the commercial growth of the Polkadot ecosystem. By voting with Polkadot BizDev, we aim to support proposals that give Polkadot the best chance of excelling in business development and ultimately excelling in the growth of the Polkadot ecosystem and Dot token.",
+        "isOrganization": false
+    },
     {
         "address": "13EyMuuDHwtq5RD6w3psCJ9WvJFZzDDion6Fd2FVAqxz1g7K",
         "name": "ChaosDAO",

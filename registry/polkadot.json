@@ -30,5 +30,13 @@
         "shortDescription": "DotSama native node operator and community supporter",
         "longDescription": "## About Sik\nFounder of [Crifferent Staking Services](https://crifferent.de) \n\nDeveloper for [Staking Facilities](https://stakingfacilities.com) \n\nMember of [DOT Validator Alliance DAO](https://dotvalidators.org) \n\nTeam member @[HydraDX](https://hydradx.io)/[Basilisk](https://bsx.fi) \n\nRPC provider @[UnitedBloc](https://unitedbloc.com/) \n\n---\n\n**From within the ecosystem - for the ecosystem!** \n\nI'm evaluating proposals by taking different views into consideration. I'm not only looking at it from the perspective of a community member, but also as a developer/founder/infra-provider/human being. \n\n---\n## Contact me \n\n@dev0_sik @[Twitter](https://twitter.com/dev0_sik) \n\n@dev0_sik @[Telegram](https://t.me/dev0_sik) \n\nsik#3706 @[Discord](https://discord.com/) \n\n@dev0_sik:matrix.org @[Element](https://element.io/) \n\n[simon.kraus@crifferent.de](mailto:simon.kraus@crifferent.de) \n\nWhatsApp/Callboy +49 157 377 309 02",
         "isOrganization": false
+    },
+    {
+        "address": "1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j",
+        "name": "Amforc",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/amforc-Icon_rund_192x192.png",
+        "shortDescription": "Independent and experienced staking provider from Switzerland",
+        "longDescription": "## Voting Methodology\nWe are strong believers in a free market, and focus on the protection of privacy, political freedom, and economic freedom for the long-term growth of the network.\n\n##About us\nAmforc is a bootstrapped company based in Switzerland, and is exclusively committed to the Polkadot ecosystem. We run a hybrid-cloud setup in combination with our own data center (colocation) in a former military bunker. Our expertise covers the areas of IT infrastructure and security, legal and regulatory matters, as well as tokenomics and game theory.",
+        "isOrganization": true
     }
 ]

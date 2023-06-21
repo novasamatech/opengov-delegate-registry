@@ -190,5 +190,13 @@
         "shortDescription": "CertHum.com - Community Validator",
         "longDescription": "CertHum is a community validator that provides Web3 infrastructure in support of decentralization.",
         "isOrganization": true
-     }
+     },
+    {
+        "address": "15vvAhHcmop8PjP5QNr3mXzX1oesv6vjun25iSgMe9YpDezv",
+        "name": "RobinHodl",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/RobinHodl.png",
+        "shortDescription": "Polkadot ambassador and community member since 2021",
+        "longDescription": "Polkadot ambassador since 2022 https://twitter.com/robinhodl69",
+        "isOrganization": false
+    }
 ]

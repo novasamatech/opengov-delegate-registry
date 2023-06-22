@@ -144,14 +144,6 @@
         "isOrganization": false
     },
     {
-        "address": "FvrbaMus8iASyrQYkajQWDxsYvG5gb72PFPuvy8TvkFFVGn",
-        "name": "Decent Partners",
-        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/decent_partners_logo_black_background.png",
-        "shortDescription": "A creative conspiracy - we deliver network services to on-chain governed blockchains through the applied research & development of tools, processes and projects that release the creative potential of connected minds.",
-        "longDescription": "We provide network services to public blockchains - sourcing, developing and supporting creative talent both inside and outside the Kusama ecosystem - check out website [here](https://decent.partners). We have kickstarted, coordinated and delivered over 25 on-chain projects in [Edgeware](https://forum.polkadot.network/t/re-introducing-edgeware-substrates-most-chaotic-governance-experiment-and-second-oldest-mainnet/500), Substrate's second oldest mainnet including the development of [Kabocha](https://kabocha.network) the _media lab of Kusama_ that was created entirely through interlinked on-chain proposals. Our experience is rooted in building global on-line communities across early, mid and late state social networks, co-founding [Copa90](https://copa90.com), leading [Guardian Media Group](https://www.theguardian.com/gmg), [Comic Relief](https://www.comicrelief.com/) and [Virgin Unite](https://unite.virgin.com/), running largescale crypto-currency mining operations and listed companies alongside working with clients such as BBC, Channel 4, Nike, Red Bull, Spotify and Apple Music",
-        "isOrganization": true
-    },
-    {
         "address": "DG8Q1VmFkmDwuKDN9ZqdB78W6BiXTX5Z33XzZNAykuB5nFh",
         "name": "DrCAO | Web3 Education And Investment",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/logo_WEAI.png",

@@ -1,5 +1,13 @@
 [
     {
+        "address": "13SceNt2ELz3ti4rnQbY1snpYH4XE4fLFsW8ph9rpwJd6HFC",
+        "name": "Polkassembly",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkassemblylogo192.png",
+        "shortDescription": "Governance platform for polkadot ecosystem",
+        "longDescription": "We are building governance platform for Polkadot & Kusama ecosystem",
+        "isOrganization": true
+    },
+    {
         "address": "13EyMuuDHwtq5RD6w3psCJ9WvJFZzDDion6Fd2FVAqxz1g7K",
         "name": "ChaosDAO",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/chaosdao.png",

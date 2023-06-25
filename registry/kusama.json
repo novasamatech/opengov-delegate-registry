@@ -1,4 +1,12 @@
 [
+     {
+        "address": "GqPDeJBexSsvEq6gBzrnMCn7KNYbzn9bX9ePCjEDN3EikoV",
+        "name": "Alex PromoTeam",
+        "image":  "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
+        "shortDescription": "Polkadot Head Ambassador | PromoTeam Member | Validator ",
+        "longDescription": "PromoTeam is a diverse team of specialists and blockchain activists with various skills that actively promotes the Polkadot ecosystem. Our main activity is content production, offline and online event organization, community management and creation, product marketing, development of ambassador programs, network validation.",
+        "isOrganization": false
+     },
     {
         "address": "F1wAMxpzvjWCpsnbUMamgKfqFM7LRvNdkcQ44STkeVbemEZ",
         "name": "Polkassembly",

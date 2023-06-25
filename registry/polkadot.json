@@ -208,6 +208,14 @@
         "isOrganization": false
     },
     {
+        "address": "1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j",
+        "name": "Amforc",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/amforc-Icon_rund_192x192.png",
+        "shortDescription": "Independent and experienced staking provider from Switzerland",
+        "longDescription": "## Voting Methodology\nWe are strong believers in a free market, and focus on the protection of privacy, political freedom, and economic freedom for the long-term growth of the network.\n\n## About us\nAmforc is a bootstrapped company based in Switzerland, and is exclusively committed to the Polkadot ecosystem. We run a hybrid-cloud setup in combination with our own data center (colocation) in a former military bunker. Our expertise covers the areas of IT infrastructure and security, legal and regulatory matters, as well as tokenomics and game theory.",
+        "isOrganization": true
+    },
+    {
         "address": "16CxXYoq9joofWE13zWuWBfd4tx3kQhXJECLLkhMLgWjYyHG",
         "name": "Math Crypto",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/mathcrypto.png",

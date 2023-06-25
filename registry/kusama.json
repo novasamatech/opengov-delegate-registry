@@ -190,5 +190,13 @@
         "shortDescription": "CertHum.com - Community Validator",
         "longDescription": "CertHum is a community validator that provides Web3 infrastructure in support of decentralization.",
         "isOrganization": true
+     },
+     {
+        "address": "ESQzLXFRon3h5hUfNN9QTSQQTEzto5XNTGxF3g1myZELwX6",
+        "name": "Polkadotters",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkadotters.png",
+        "shortDescription": "Polkadotters - community validators and media house",
+        "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
+        "isOrganization": true
      }
 ]

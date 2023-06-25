@@ -8,6 +8,174 @@
         "isOrganization": true
     },
     {
+        "address": "129LBt5T1eYtnGHbPYeiiMdmWfokCiiq7z6JBfjnYifiombz",
+        "name": "Pioneer",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Supporting the network is the main incentive to work. Security in the guarantees and investment prospects of community members.  The service is powered by renewable energy.",
+        "longDescription": "Supporting the network is the main incentive to work. Security in the guarantees and investment prospects of community members.  The service is powered by renewable energy.",
+        "isOrganization": false
+    },
+    {
+        "address": "12gPFmRqnsDhc9C5DuXyXBFA23io5fSGtKTSAimQtAWgueD2",
+        "name": "TurboFlakes",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/turboflakes.png",
+        "shortDescription": "## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100%",
+        "longDescription":"## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100% renewable energy for the common good.\n\nWe believe in the Web3 vision of a decentralized web. We love experimentation and ideation.\n\nIn Open Governance we participate and support proposals that overall would bring joy, evolution and success to the Polkadot ecosystem.\n\nRead more about us at https://turboflakes.io",
+        "isOrganization": true
+    },
+    {
+        "address": "131Y21vAVYxm7f5xtaV3NydJRpig3CqyvjTyFM8gMpRbFH1T",
+        "name": "NeNa 🌻",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Flower🌻 power",
+        "longDescription": "Flower🌻 power",
+        "isOrganization": false
+    },
+    {
+        "address": "13EEEhiXeCFpFjVQxmjJsHjr9LFvnAurcnwQ1FDgB5LmJwQp",
+        "name": "Swiss Bond",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "Swiss Bond is a trusted Governance delegate, infrastructure provider, validator and operator of the Swiss Pool nomination pools",
+        "longDescription": "Swiss Bond is a trusted Governance delegate, infrastructure provider, validator and operator of the Swiss Pool nomination pools",
+        "isOrganization": true
+    },
+    {
+        "address": "13GtCixw3EZARj52CVbKLrsAzyc7dmmYhDV6quS5yeVCfnh1",
+        "name": "RADIUMBLOCK.COM",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "Radiumblock.com focuses on Web3 Infra for Designers, Developers, Dapps! Supporting a growing list of blockchains networks with world-class enterprise infrastructure!",
+        "longDescription": "Radiumblock.com focuses on Web3 Infra for Designers, Developers, Dapps! Supporting a growing list of blockchains networks with world-class enterprise infrastructure! Read more at: https://radiumblock.com/",
+        "isOrganization": true
+    },
+    {
+        "address": "13mjnUDrHwYGATFB1FkFkZ1U3kYFsAQfHYTdcc8p3HP1xzZA",
+        "name": "Ruby-Node 💎",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "As a delegate on Polkadot, my primary goal is to contribute to the development and growth of the network through active participation in governance and decision-making.",
+        "longDescription": "As a delegate on Polkadot, my primary goal is to contribute to the development and growth of the network through active participation in governance and decision-making. I believe in the principles of decentralization and community-driven innovation, and I am committed to ensuring that the voice of the community is heard and represented in all aspects of governance. In addition to contributing to the overall growth and success of the Polkadot ecosystem, I am also interested in fostering collaboration and partnership between different projects and communities within the network. I believe that by working together and sharing resources and knowledge, we can create even greater value and opportunities for all participants. Overall, my goal as a delegate is to help build a strong and sustainable network that benefits all participants, and I am committed to working tirelessly towards this end.",
+        "isOrganization": false
+    },
+    {
+        "address": "13pZskDR7Pt67NtcChSr4uFRBf9ZS52nQeyrceSykq8MDrMe",
+        "name": "Generic-chain",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "Generic chain offers Non-custodial Validation Services for many chains in the Polkadot ecosystem. With a reasonable commission and an outstanding operations team",
+        "longDescription": "Generic chain offers Non-custodial Validation Services for many chains in the Polkadot ecosystem. With a reasonable commission and an outstanding operations team, we are committed to ensure that these validators serve the network in the best possible way. Read more at https://www.generic-chain.io/",
+        "isOrganization": true
+    },
+    {
+        "address": "13ujCsf3t2YAdAhcpcEFVoJAPRYzMLHUHEnLroQp41sJCSnm",
+        "name": "AG",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "AG staking provides high returns, low downtimes for many blockchain networks. Invested in increase decentralisation of young networks. Read more at : https://validator.ag/",
+        "longDescription": "AG staking provides high returns, low downtimes for many blockchain networks. Invested in increase decentralisation of young networks. Read more at : https://validator.ag/",
+        "isOrganization": true
+    },
+    {
+        "address": "14d2kv44xf9nFnYdms32dYPKQsr5C9urbDzTz7iwU8iHb9az",
+        "name": "CoinStudio",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/coinstudio.png",
+        "shortDescription": "Kusama and Polkadot Validator, Governance participant. Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
+        "longDescription": "Kusama and Polkadot Validator, Governance participant. Check our active attempts to improve the Governance process https://kusama.polkassembly.io/post/2431",
+        "isOrganization": false
+    },
+    {
+        "address": "14id3ENXVkJ34Q51AfWDGcMHA1EbGu8obF8QJLEUkzAB8KVh",
+        "name": "michalis",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Support & Anti-Scam Lead at Web3 Foundation. I vote in all referenda, but I usually abstain from the ones seeking funding, unless the proposal brings clear value to the ecosystem",
+        "longDescription": "Support & Anti-Scam Lead at Web3 Foundation. I vote in all referenda, but I usually abstain from the ones seeking funding, unless the proposal brings clear value to the ecosystem (like infrastructure, tools, or very original ideas).",
+        "isOrganization": false
+    },
+    {
+        "address" : "152QidDC4QrtMCyRGiQmvrNyjntvMg2XouCSdoPSeqUNTvsq",
+        "name": "Stake.Plus",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/stakeplus.png",
+        "shortDescription": "Validation, Collation and Infrastructure Services. We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware",
+        "longDescription":  "Validation, Collation and Infrastructure Services. We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware powered by renewable energy.",
+        "isOrganization": true
+    },
+    {
+        "address": "153YD8ZHD9dRh82U419bSCB5SzWhbdAFzjj4NtA5pMazR2yC",
+        "name": "SAXEMBERG",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "We offer validation and collation services of our nominators on the Kusama and Polkadot ecosystem. In addition, we are currently developing dapps on the same ecosystem.",
+        "longDescription": "We offer validation and collation services of our nominators on the Kusama and Polkadot ecosystem. In addition, we are currently developing dapps on the same ecosystem. We strive for a credible neutral ecosystem in fair terms for everybody. So we don't ever plan on exploiting consensus rules on blockchains or seek to exploit blockchains with misconfigured parameters. Read more at : https://saxemberg.com/about/.",
+        "isOrganization": true
+    },
+    {
+        "address": "16CdHjb4nxVwF6uwmPm6A29pc4ubnLiY7UqasMxt7cT9BcoK",
+        "name": "NEWDEAL",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription":  "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
+        "longDescription":  "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
+        "isOrganization": false
+    },
+    {
+        "address": "15iwm1HrcGiTZoZenijMTCayRD3hM2RpKde3LrrNxPKAMjTg",
+        "name": "UBIK CAPITAL",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "Ubik Capital is a Proof of Stake service provider, validator, and investor. Ubik Capital provides staking as a service and investments to various blockchain projects.",
+        "longDescription": "Ubik Capital is a Proof of Stake service provider, validator, and investor. Ubik Capital provides staking as a service and investments to various blockchain projects. Ubik Capital secures major networks and is a trusted staking provider with years of industry experience. Read more at : https://ubik.capital/",
+        "isOrganization": true
+    },
+    {
+        "address": "16iiKwFsRKRsjAiEpD4zgNgEX84nzHtHHNFKXhz1sHtan3ne",
+        "name": "CryptoLab 01",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Founder/Developer @ CryptoLab. hodler. validator. buidler, father! You can follow : https://twitter.com/iisaint",
+        "longDescription": "Founder/Developer @ CryptoLab. hodler. validator. buidler, father! You can follow : https://twitter.com/iisaint",
+        "isOrganization": false
+    },
+    {
+        "address": "16Jh21ThTh2tW98NuN2gM7Q3KaYiuJLbxCNbuBkFpwcDkRqx",
+        "name": "Cypher Labs",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "Cypher Labs is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Kusama.",
+        "longDescription": "Cypher Labs is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Kusama.",
+        "isOrganization": true
+    },
+    {
+        "address": "16SpacegeUTft9v3ts27CEC3tJaxgvE4uZeCctThFH3Vb24p",
+        "name": "Staker Space",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
+        "shortDescription": "We are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator",
+        "longDescription": "We are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator we maintain highly available and reliable nodes that contributes to the overall health and stability of the network. Besides our specialisation we are committed to serving the community and contributing to the growth and success of the network on all fronts. Governance is the main front where decision making takes place. We care for protocol-security and enabling builders and users in the bigger Polkadot ecosystem.",
+        "isOrganization": true
+    },
+    {
+        "address": "1LUckyocmz9YzeQZHVpBvYYRGXb3rnSm2tvfz79h3G3JDgP",
+        "name": "Polkadot.pro - Realgar",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Governance experimenter, validator, researcher. United Networks of State Machines. You can follow https://twitter.com/propolkadot",
+        "longDescription": "Governance experimenter, validator, researcher. United Networks of State Machines. You can follow https://twitter.com/propolkadot",
+        "isOrganization": false
+    },
+    {
+        "address": "1UQC7Vs4zbywp8CbxcCCRUyyRqeUZxq9aXeD8UZ3MpLUy12",
+        "name": "Gontajones",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Polkadot Application Engineer at Parity. Help build an ecosystem of lighthouse projects, tutorials, documentation, and an open-source culture around Substrate.",
+        "longDescription": "Polkadot Application Engineer at Parity. Help build an ecosystem of lighthouse projects, tutorials, documentation, and an open-source culture around Substrate. Provide technical support to Polkadot ecosystem teams. You can follow https://twitter.com/arturgontijo.",
+        "isOrganization": false
+    },
+    {
+        "address": "1BdoL1BP36SZGEKR4iX8ksou2GTnrDd5of99SWK82c3A4aB",
+        "name": "Eat Pray Validate 🍴🙏🖥",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
+        "shortDescription": "Sometimes i feel i've been chasing staking rewards my whole life.",
+        "longDescription": "Sometimes i feel i've been chasing staking rewards my whole life.",
+        "isOrganization": false
+    },
+    {
+        "address": "15cZn8K1DaE7qiBWK6mGFJMKYKjFrALTVwe5urpD9PzKSsPY",
+        "name": "Abdulbee",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Abdulbee_Nova.jpg",
+        "shortDescription": "I currently contribute to Polkadot full-time. I'm dedicated to the relay-chain, and not to an individual, official or organization. Hence, the best interest of the network",
+        "longDescription": "I currently contribute to Polkadot full-time. I'm dedicated to the relay-chain, and not to an individual, official or organization. Hence, the best interest of the network comes first, and my votes reflect this. Reputation and value-for-money are the two most important things I look at when reviewing and voting on referenda.",
+        "isOrganization": false
+    },
+    {
         "address": "15D2JM548bqRuE45aDmeF2WqiKC56WtNnRmCxVSree9YKwVb",
         "name": "Will | Paradox | ParaNodes.io",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/paradox.png",

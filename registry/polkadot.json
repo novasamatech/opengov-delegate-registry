@@ -238,5 +238,13 @@
         "shortDescription": "Active OpenGov contributor | 1kv validator",
         "longDescription": "We run [validators for Kusama and Polkadot](https://www.math-crypto.com/) within the 1kv programme. From the beginning of OpenGov, we have contributed to governance by participating in discussions, diligently voting on each proposal, and making user-friendly tools for participating in OpenGov. \n Delegation to MathCrypto means that you care about proposals that focus on a decentralized but secure validator network, developing novel use-cases for Dotsama, and cost efficient education and media content.",
         "isOrganization": false
+    },  
+     {
+        "address": "14BA8G99RW6xxgu4q3Ks5GVQaA5g4wApn4JPeXbLiEU2Pent",
+        "name": "Polkadot Mexico",
+        "image": "https://github.com/PolkadotMexico/opengov-delegate-registry/blob/3ec714116fc32d23856c80c22b4b9b27d3d849ae/images/Calendario%26Polkadot-Mx.png",
+        "shortDescription": "Polkadot Community in Mexico",
+        "longDescription": "We are the Polkadot Community in Mexico.",
+        "isOrganization": true
     }
 ]

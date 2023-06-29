@@ -238,5 +238,13 @@
         "shortDescription": "Active OpenGov contributor | 1kv validator",
         "longDescription": "We run [validators for Kusama and Polkadot](https://www.math-crypto.com/) within the 1kv programme. From the beginning of OpenGov, we have contributed to governance by participating in discussions, diligently voting on each proposal, and making user-friendly tools for participating in OpenGov. \n Delegation to MathCrypto means that you care about proposals that focus on a decentralized but secure validator network, developing novel use-cases for Dotsama, and cost efficient education and media content.",
         "isOrganization": false
+    },
+    {
+        "address": "167ShbHu769mP5jbtt7AHayJhzEied6s8M5kN5nBSAQewnRz",
+        "name": "DOZENODES",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",
+        "shortDescription": "Polkadot Validator Operator www.dozenodes.com",
+        "longDescription": "## About me\n\nMy name is Marcin and I'm the main technical guy behind dozenodes.com.\n\nI'm an active memeber of communities for multiple project in dotsama ecosytem\n\n I have vast technical expirience which allows me to properly assess proposed changes.\n\n Feel free to contact me via contact section of dozenodes.com.",
+        "isOrganization": false
     }
 ]

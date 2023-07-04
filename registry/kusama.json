@@ -207,4 +207,12 @@
         "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
         "isOrganization": true
     }
+{
+        "address": "CzB1XBwkko3Az7DNZDPigZ1bjzLxELAGnLBnFGRdQ4PXTqZ",
+        "name": "Krawiec",
+        "image": "https://github.com/KrawiecViki/opengov-delegate-registry/commit/48c24854dc074c9b0c3ff1187a90170b01d81c17",
+        "shortDescription": "Krawiec stake- community perspective",https://github.com/KrawiecViki/opengov-delegate-registry/blob/48c24854dc074c9b0c3ff1187a90170b01d81c17/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png
+        "longDescription": "Active member of Polkadot hub Ukraine",
+        "isOrganization": true
+    }
 ]

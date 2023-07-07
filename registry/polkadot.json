@@ -224,6 +224,14 @@
         "isOrganization": false
     },
     {
+        "address": "12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh",
+        "name": "PolkaWorld",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/PolkaWorld.png",
+        "shortDescription": "the largest Polkadot Chinese community in Asia",
+        "longDescription": "## About us\n\nPolkaWorld is the largest Polkadot Chinese community in Asia and has formerly served as a Council Member for Polkadot and Kusama. It has been involved in numerous proposal votings and has a profound understanding of Polkadot's OpenGov governance system",
+        "isOrganization": true
+    },
+    {
         "address": "1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j",
         "name": "Amforc",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/amforc-Icon_rund_192x192.png",
@@ -246,5 +254,12 @@
         "shortDescription": "Staker Space independent node operator and community member",
         "longDescription": "## About Staker Space\nWe are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator we maintain highly available and reliable nodes that contribute to the overall health and stability of the network. Besides our specialization we are committed to serving the community and contributing to the growth and success of the network on all fronts.\n\n## Our Strategy\nWith referenda we care for protocol-security and enabling builders and users in the bigger Polkadot ecosystem. We support open networks in order to secure the future of the decentralized systems.\n\n## Contact us\nPlease feel free to contact us.\n\n[Staker Space Discord](https://discord.gg/9AREXj8ESr)\n\n[Staker Space Twitter](https://twitter.com/stakerspace)\n\n[Staker Space Telegram](https://t.me/staker_space)\n\n[Staker Space Email](mailto:hello@staker.space)",
         "isOrganization": true
+    },
+        "address": "167ShbHu769mP5jbtt7AHayJhzEied6s8M5kN5nBSAQewnRz",
+        "name": "DOZENODES",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",
+        "shortDescription": "Polkadot Validator Operator www.dozenodes.com",
+        "longDescription": "## About me\n\nMy name is Marcin and I'm the main technical guy behind dozenodes.com.\n\nI'm an active memeber of communities for multiple project in dotsama ecosytem\n\n I have vast technical expirience which allows me to properly assess proposed changes.\n\n Feel free to contact me via contact section of dozenodes.com.",
+        "isOrganization": false
     }
 ]

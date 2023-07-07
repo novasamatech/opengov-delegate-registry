@@ -1,4 +1,12 @@
 [
+     {
+        "address": "GqPDeJBexSsvEq6gBzrnMCn7KNYbzn9bX9ePCjEDN3EikoV",
+        "name": "Alex PromoTeam",
+        "image":  "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
+        "shortDescription": "Polkadot Head Ambassador | PromoTeam Member | Validator ",
+        "longDescription": "PromoTeam is a diverse team of specialists and blockchain activists with various skills that actively promotes the Polkadot ecosystem. Our main activity is content production, offline and online event organization, community management and creation, product marketing, development of ambassador programs, network validation.",
+        "isOrganization": false
+     },
     {
         "address": "F1wAMxpzvjWCpsnbUMamgKfqFM7LRvNdkcQ44STkeVbemEZ",
         "name": "Polkassembly",
@@ -144,14 +152,6 @@
         "isOrganization": false
     },
     {
-        "address": "FvrbaMus8iASyrQYkajQWDxsYvG5gb72PFPuvy8TvkFFVGn",
-        "name": "Decent Partners",
-        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/decent_partners_logo_black_background.png",
-        "shortDescription": "A creative conspiracy - we deliver network services to on-chain governed blockchains through the applied research & development of tools, processes and projects that release the creative potential of connected minds.",
-        "longDescription": "We provide network services to public blockchains - sourcing, developing and supporting creative talent both inside and outside the Kusama ecosystem - check out website [here](https://decent.partners). We have kickstarted, coordinated and delivered over 25 on-chain projects in [Edgeware](https://forum.polkadot.network/t/re-introducing-edgeware-substrates-most-chaotic-governance-experiment-and-second-oldest-mainnet/500), Substrate's second oldest mainnet including the development of [Kabocha](https://kabocha.network) the _media lab of Kusama_ that was created entirely through interlinked on-chain proposals. Our experience is rooted in building global on-line communities across early, mid and late state social networks, co-founding [Copa90](https://copa90.com), leading [Guardian Media Group](https://www.theguardian.com/gmg), [Comic Relief](https://www.comicrelief.com/) and [Virgin Unite](https://unite.virgin.com/), running largescale crypto-currency mining operations and listed companies alongside working with clients such as BBC, Channel 4, Nike, Red Bull, Spotify and Apple Music",
-        "isOrganization": true
-    },
-    {
         "address": "DG8Q1VmFkmDwuKDN9ZqdB78W6BiXTX5Z33XzZNAykuB5nFh",
         "name": "DrCAO | Web3 Education And Investment",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/logo_WEAI.png",
@@ -182,13 +182,29 @@
         "shortDescription": "As a committed Kusama member, I have a deep understanding of governance and am an impartial advocate for treasury funds.",
         "longDescription": " ## About me, \n\n As a dedicated member of the Kusama ecosystem, I am passionate about the potential of blockchain technology to transform society.\n\n I am an advocate for transparency, accountability, and fairness in governance, and my impartiality allows me to make informed decisions that benefit the ecosystem as a whole.\n\n As the founder of Polkadot Prodigy and the development community in Bulgaria, \n\n I am committed to fostering collaboration, innovation, and growth within the Polkadot ecosystem.",
         "isOrganization": false
-     },
-     {
+    },
+    {
         "address": "EpeeGt1x3kju8TZmfcaHTkBwTn7eyq4Sxy8Z3dPU88chMcN",
         "name": "CertHum, Inc.",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/CertHum%20Logo3-192x192.png",
         "shortDescription": "CertHum.com - Community Validator",
         "longDescription": "CertHum is a community validator that provides Web3 infrastructure in support of decentralization.",
         "isOrganization": true
-     }
+    },
+    {
+        "address": "DDbQ9YnjeLS6DvZgvTgFvttnqJZrD12gVq4889yh9opXVS6",
+        "name": "Amforc",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/amforc-Icon_rund_192x192.png",
+        "shortDescription": "Independent and experienced staking provider from Switzerland",
+        "longDescription": "## Voting Methodology\nWe are strong believers in a free market, and focus on the protection of privacy, political freedom, and economic freedom for the long-term growth of the network.\n\n## About us\nAmforc is a bootstrapped company based in Switzerland, and is exclusively committed to the Polkadot ecosystem. We run a hybrid-cloud setup in combination with our own data center (colocation) in a former military bunker. Our expertise covers the areas of IT infrastructure and security, legal and regulatory matters, as well as tokenomics and game theory.",
+        "isOrganization": true
+    },
+    {
+        "address": "ESQzLXFRon3h5hUfNN9QTSQQTEzto5XNTGxF3g1myZELwX6",
+        "name": "Polkadotters",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkadotters.png",
+        "shortDescription": "Polkadotters - community validators and media house",
+        "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
+        "isOrganization": true
+    }
 ]

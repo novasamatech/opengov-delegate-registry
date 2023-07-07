@@ -224,6 +224,14 @@
         "isOrganization": false
     },
     {
+        "address": "12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh",
+        "name": "PolkaWorld",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/PolkaWorld.png",
+        "shortDescription": "the largest Polkadot Chinese community in Asia",
+        "longDescription": "## About us\n\nPolkaWorld is the largest Polkadot Chinese community in Asia and has formerly served as a Council Member for Polkadot and Kusama. It has been involved in numerous proposal votings and has a profound understanding of Polkadot's OpenGov governance system",
+        "isOrganization": true
+    },
+    {
         "address": "1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j",
         "name": "Amforc",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/amforc-Icon_rund_192x192.png",

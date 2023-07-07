@@ -36,8 +36,7 @@
         "name": "RockX | rockx.com",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/rockx-logo.png",
         "shortDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.",
-        "longDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.
-With its foundations rooted in staking, protocol research and infrastructure design, RockX has built countless access nodes for users to interact with over 20 layer 1 and 2 protocols — driving greater accessibility and furthering adoption of blockchain technologies.",
+        "longDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.\n\nWith its foundations rooted in staking, protocol research and infrastructure design, RockX has built countless access nodes for users to interact with over 20 layer 1 and 2 protocols — driving greater accessibility and furthering adoption of blockchain technologies.",
         "isOrganization": true
     }
 ]

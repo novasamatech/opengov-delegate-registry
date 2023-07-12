@@ -152,14 +152,6 @@
         "isOrganization": true
     },
     {
-        "address": "16SpacegeUTft9v3ts27CEC3tJaxgvE4uZeCctThFH3Vb24p",
-        "name": "Staker Space",
-        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
-        "shortDescription": "We are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator",
-        "longDescription": "We are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator we maintain highly available and reliable nodes that contributes to the overall health and stability of the network. Besides our specialisation we are committed to serving the community and contributing to the growth and success of the network on all fronts. Governance is the main front where decision making takes place. We care for protocol-security and enabling builders and users in the bigger Polkadot ecosystem.",
-        "isOrganization": true
-    },
-    {
         "address": "1LUckyocmz9YzeQZHVpBvYYRGXb3rnSm2tvfz79h3G3JDgP",
         "name": "Polkadot.pro - Realgar",
         "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",

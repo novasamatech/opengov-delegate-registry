@@ -1,12 +1,12 @@
 [
-     {
+    {
         "address": "15G4hfDNtNhRc82As8Ep2YfvpM5xVdX7De3P9qSdHerGA6wC",
         "name": "Alex PromoTeam",
-        "image":  "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
         "shortDescription": "Polkadot Head Ambassador | PromoTeam Member | Validator ",
         "longDescription": "PromoTeam is a diverse team of specialists and blockchain activists with various skills that actively promotes the Polkadot ecosystem. Our main activity is content production, offline and online event organization, community management and creation, product marketing, development of ambassador programs, network validation.",
         "isOrganization": false
-     },
+    },
     {
         "address": "13SceNt2ELz3ti4rnQbY1snpYH4XE4fLFsW8ph9rpwJd6HFC",
         "name": "Polkassembly",
@@ -36,7 +36,7 @@
         "name": "TurboFlakes",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/turboflakes.png",
         "shortDescription": "## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100%",
-        "longDescription":"## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100% renewable energy for the common good.\n\nWe believe in the Web3 vision of a decentralized web. We love experimentation and ideation.\n\nIn Open Governance we participate and support proposals that overall would bring joy, evolution and success to the Polkadot ecosystem.\n\nRead more about us at https://turboflakes.io",
+        "longDescription": "## About us\n\nTurboFlakes builds end-user tooling and provides validators and collators for the Polkadot ecosystem since 2021. We also provide RPC infrastructure powered by 100% renewable energy for the common good.\n\nWe believe in the Web3 vision of a decentralized web. We love experimentation and ideation.\n\nIn Open Governance we participate and support proposals that overall would bring joy, evolution and success to the Polkadot ecosystem.\n\nRead more about us at https://turboflakes.io",
         "isOrganization": true
     },
     {
@@ -104,11 +104,11 @@
         "isOrganization": false
     },
     {
-        "address" : "152QidDC4QrtMCyRGiQmvrNyjntvMg2XouCSdoPSeqUNTvsq",
+        "address": "152QidDC4QrtMCyRGiQmvrNyjntvMg2XouCSdoPSeqUNTvsq",
         "name": "Stake.Plus",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/stakeplus.png",
         "shortDescription": "Validation, Collation and Infrastructure Services. We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware",
-        "longDescription":  "Validation, Collation and Infrastructure Services. We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware powered by renewable energy.",
+        "longDescription": "Validation, Collation and Infrastructure Services. We are committed to providing quality infrastructure services for the Polkadot ecosystem on owned hardware powered by renewable energy.",
         "isOrganization": true
     },
     {
@@ -123,8 +123,8 @@
         "address": "16CdHjb4nxVwF6uwmPm6A29pc4ubnLiY7UqasMxt7cT9BcoK",
         "name": "NEWDEAL",
         "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/individual_default.png",
-        "shortDescription":  "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
-        "longDescription":  "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
+        "shortDescription": "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
+        "longDescription": "Holder and then independent validator, enthusiastic supporter of the polkadot world and its revolutionary technology",
         "isOrganization": false
     },
     {
@@ -192,12 +192,12 @@
         "isOrganization": false
     },
     {
-       "address": "12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h",
-       "name": "Polkadotters",
-       "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkadotters.png",
-       "shortDescription": "Polkadotters - community validators and media house",
-       "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
-       "isOrganization": true
+        "address": "12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h",
+        "name": "Polkadotters",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkadotters.png",
+        "shortDescription": "Polkadotters - community validators and media house",
+        "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
+        "isOrganization": true
     },
     {
         "address": "15cfSaBcTxNr8rV59cbhdMNCRagFr3GE6B3zZRsCp4QHHKPu",
@@ -247,12 +247,20 @@
         "longDescription": "## About Staker Space\nWe are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator we maintain highly available and reliable nodes that contribute to the overall health and stability of the network. Besides our specialization we are committed to serving the community and contributing to the growth and success of the network on all fronts.\n\n## Our Strategy\nWith referenda we care for protocol-security and enabling builders and users in the bigger Polkadot ecosystem. We support open networks in order to secure the future of the decentralized systems.\n\n## Contact us\nPlease feel free to contact us.\n\n[Staker Space Discord](https://discord.gg/9AREXj8ESr)\n\n[Staker Space Twitter](https://twitter.com/stakerspace)\n\n[Staker Space Telegram](https://t.me/staker_space)\n\n[Staker Space Email](mailto:hello@staker.space)",
         "isOrganization": true
     },
-     {
+    {
         "address": "167ShbHu769mP5jbtt7AHayJhzEied6s8M5kN5nBSAQewnRz",
         "name": "DOZENODES",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/dozenodes.png",
         "shortDescription": "Polkadot Validator Operator www.dozenodes.com",
         "longDescription": "## About me\n\nMy name is Marcin and I'm the main technical guy behind dozenodes.com.\n\nI'm an active memeber of communities for multiple project in dotsama ecosytem\n\n I have vast technical expirience which allows me to properly assess proposed changes.\n\n Feel free to contact me via contact section of dozenodes.com.",
         "isOrganization": false
+    },
+    {
+        "address": "14Y4s6V1PWrwBLvxW47gcYgZCGTYekmmzvFsK1kiqNH2d84t",
+        "name": "RockX | rockx.com",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/rockx-logo.png",
+        "shortDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.",
+        "longDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.\n\nWith its foundations rooted in staking, protocol research and infrastructure design, RockX has built countless access nodes for users to interact with over 20 layer 1 and 2 protocols — driving greater accessibility and furthering adoption of blockchain technologies.",
+        "isOrganization": true
     }
 ]

@@ -1,12 +1,12 @@
 [
-     {
+    {
         "address": "GqPDeJBexSsvEq6gBzrnMCn7KNYbzn9bX9ePCjEDN3EikoV",
         "name": "Alex PromoTeam",
-        "image":  "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/IMG_5814%204.JPG",
         "shortDescription": "Polkadot Head Ambassador | PromoTeam Member | Validator ",
         "longDescription": "PromoTeam is a diverse team of specialists and blockchain activists with various skills that actively promotes the Polkadot ecosystem. Our main activity is content production, offline and online event organization, community management and creation, product marketing, development of ambassador programs, network validation.",
         "isOrganization": false
-     },
+    },
     {
         "address": "F1wAMxpzvjWCpsnbUMamgKfqFM7LRvNdkcQ44STkeVbemEZ",
         "name": "Polkassembly",
@@ -204,9 +204,9 @@
         "name": "Polkadotters",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/polkadotters.png",
         "shortDescription": "Polkadotters - community validators and media house",
-        "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job.",
-     },
-     {
+        "longDescription": "We started in Polkadot ecosystem in 2020 by creating the first Czech & Slovak [Polkadot community](https://twitter.com/Polkadotters1), becoming ambassadors for Polkadot and various ecosystem projects and by educating the community about this wonderful ecosystem and its parachains.\n\n To this day, we have more than 200 articles and reviews published with more than 1500 followers on our [Medium](https://polkadotters.medium.com/)! But not only that, we are also one of the first community validators on both Polkadot and Kusama. Besides being active on the relay chain, we also run collators on most of the parachains, founded [DOT Validator Alliance](https://dotvalidators.org/) and recently became members of [United Bloc](https://unitedbloc.com/) and [IBP](https://dotters.network/).\n\n As we are quite active in the ecosystem, governance is our true passion and we take our job really seriously - and given our experience activities, we believe that we are quite suitable for the job."
+    },
+    {
         "address": "FcjmeNzPk3vgdENm1rHeiMCxFK96beUoi2kb59FmCoZtkGF",
         "name": "Staker Space",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/staker-space.png",

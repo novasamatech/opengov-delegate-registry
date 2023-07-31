@@ -214,5 +214,13 @@
         "shortDescription": "Staker Space independent node operator and community member",
         "longDescription": "## About Staker Space\nWe are an independent node-operator group called [Staker Space](https://staker.space). We have been a part of Polkadot since the early testnets. As a node operator we maintain highly available and reliable nodes that contribute to the overall health and stability of the network. Besides our specialization we are committed to serving the community and contributing to the growth and success of the network on all fronts.\n\n## Our Strategy\nWith referenda we care for protocol-security and enabling builders and users in the bigger Polkadot ecosystem. We support open networks in order to secure the future of the decentralized systems.\n\n## Contact us\nPlease feel free to contact us.\n\n[Staker Space Discord](https://discord.gg/9AREXj8ESr)\n\n[Staker Space Twitter](https://twitter.com/stakerspace)\n\n[Staker Space Telegram](https://t.me/staker_space)\n\n[Staker Space Email](mailto:hello@staker.space)",
         "isOrganization": true
+    },
+    {
+        "address": "CdvQpMBfaFGz4K5n9ibcQqyCQxGqdpNLVeRVQwuip6hr7Ew",
+        "name": "muddlebee",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/muddlebee.png",
+        "shortDescription": "Polkadot Moderator, Ambsaddor and full time Dev. I actively contribute to, advocate for, and guide the community's growth and progress.",
+        "longDescription": "As a voting delegate at Kusama, I vote on proposals after deep understanding and discussions with community members. If a proposal is unclear, I abstain from voting. My aim is to ensure informed voting that benefits our community and drives progress.",
+        "isOrganization": false
     }
 ]

@@ -262,5 +262,13 @@
         "shortDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.",
         "longDescription": "RockX is a global blockchain node network and gateway for users to seamlessly access Web3, offering institutional-grade solutions and a full suite of developer tools for users to stake and build on all major Proof-of-Stake blockchains.\n\nWith its foundations rooted in staking, protocol research and infrastructure design, RockX has built countless access nodes for users to interact with over 20 layer 1 and 2 protocols — driving greater accessibility and furthering adoption of blockchain technologies.",
         "isOrganization": true
+    },
+    {
+        "address": "15wnPRex2QwgWNCMRVSqgqp2syDn8Gf6LPGGabRhA8zoohpt",
+        "name": "UTSA",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/utsa.png",
+        "shortDescription": "Validator Polkadot, Kusama, Cosmos | Senior Ambassador Moonbeam",
+        "longDescription": "𝐔𝐓𝐒𝐀 is a trustworthy and high performance validator that supports public hotspots, relaying, and required documentation. Our team is actively working to develop local crypto communities, create a WIKI in Russian about the Polkadot and Cosmos ecosystems https://teletype.in/@lesnik13utsa. We consider Governance to be the backbone of Polkadot development and pay great attention to it. Your delegations to us = getting the right choice and free time!",
+        "isOrganization": false
     }
 ]

@@ -230,5 +230,13 @@
         "shortDescription": "Polkadot Moderator, Ambassador and full time Dev. I actively contribute to, advocate for, and guide the community's growth and progress.",
         "longDescription": "As a voting delegate at Kusama, I vote on proposals after deep understanding and discussions with community members. If a proposal is unclear, I abstain from voting. My aim is to ensure informed voting that benefits our community and drives progress.",
         "isOrganization": false
+    },
+    {
+        "address": "JKupaoCtkRzMjCDQJbVMbG1jmEr8ebtoRG7cmxWkc8vM2uZ",
+        "name": "INFRASTRUCTURE CORPORATION",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/INFRASTRUCTURE_CORPORATION.png",
+        "shortDescription": "validator | elector | kusama | polkadot",
+        "longDescription": "[INFRASTRUCTURE CORPORATION](https://infrastructurecorporation.com) provides dependable stake nomination and vote delegation. Our mission is to be foundation under an emerging digital renaissance by providing robust, innovative, and sustainable digital infrastructures that empower individuals and organizations to participate in the unfolding digital age.",
+        "isOrganization": false
     }
 ]

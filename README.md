@@ -51,3 +51,7 @@ Please submit your information as a pull request to this repository. We will rev
 ## Directory
 
 A list of networks with information about individuals and organizations in the Substrate ecosystem can be found [here](./registry). Networks are divided into separate files, make sure you choose the right one.
+
+## License
+Delegate Registry is available under the Apache 2.0 license. See the LICENSE file for more info.
+© Novasama Technologies GmbH 2023

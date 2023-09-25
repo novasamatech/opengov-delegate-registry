@@ -278,5 +278,29 @@
         "shortDescription": "Validating on Polkadot & Kusama. Actively supporting and contributing to the community via development, utils, education, and advocacy.",
         "longDescription": "**metaspan** is a trusted network infrastructure provider and validator on Polkadot and Kusama.\n\nWe are a team of experienced engineers and developers with a passion for blockchain technology and the Polkadot ecosystem.\n\nWe are actively involved in the community and contribute to the ecosystem via development, utilities, education, and advocacy.\n\nWe are committed to the long-term success of Polkadot and Kusama and are excited to be a part of the journey.",
         "isOrganization": true
+    },
+    {
+        "address": "16fbkDCMrAo1uyC52NyA8Y2dETnYVpCofSoj3QEE2WUNnkLk",
+        "name": "INFRASTRUCTURE CORPORATION",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/INFRASTRUCTURE_CORPORATION.png",
+        "shortDescription": "validator | elector | polkadot | kusama",
+        "longDescription": "[INFRASTRUCTURE CORPORATION](https://infrastructurecorporation.com) provides dependable stake nomination and vote delegation targets. Our mission is to contribute foundation under the emerging digital renaissance by providing robust, innovative, and sustainable digital infrastructures that empower individuals and organizations to participate in the unfolding digital age.",
+        "isOrganization": false
+    },
+    {
+        "address": "14g2mcpaEJoMCpnzStbYTTRKcZsWAYeKUzdE8ph6jYCrZuPS",
+        "name": "LucaCrypto",
+        "image": "https://raw.githubusercontent.com/lucadice/opengov-delegate-registry/master/images/Lucacrypto.png",
+        "shortDescription": "Vibing and voting 🕺🗳️ Polkadot Enthusiast 🚀🔵 long time viewer of AAG 👁️📺[Twitter: @NFTsaremyjam](https://twitter.com/NFTsaremyjam)",
+        "longDescription": "Vibing and voting 🕺🗳️ Polkadot Enthusiast 🚀🔵 long time viewer of AAG 👁️📺[Twitter: @NFTsaremyjam](https://twitter.com/NFTsaremyjam)",
+        "isOrganization": false
+    },
+    {
+        "address": "14hKbFVLgZHNAWTQ51Q315Jm1HVEoDt6DMt4L83y2BW5ZvPL",
+        "name": "Alianza Hispana",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/alianza.png",
+        "shortDescription": "Representamos a la comunidad de habla hispana en el proceso de gobernanza y en la toma de decisiones.",
+        "longDescription": "Este colectivo está formado por personas del ecosistema de Polkadot y Kusama que cuentan con una pluralidad de perfiles, experiencia en el ecosistema y un fuerte compromiso con el bienestar de la red y sus usuarios, unidos bajo la misión de fortalecer y empoderar a nuestra comunidad en el ecosistema de Polkadot y Kusama.  \n[ver mas en el manifiesto](https://cloudflare-ipfs.com/ipfs/QmSW7cLigiMR9wsnmPopE6z4RE1XXdDYd8SebA6A6nwqbJ)",
+        "isOrganization": true
     }
 ]

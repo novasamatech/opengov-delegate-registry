@@ -287,13 +287,20 @@
         "longDescription": "💫 Macrodata Refiner @paritytech building @polkadot",
         "isOrganization": false
     },
-    {    
-
+    {
         "address": "13kzfkXXF7nSCzaMS2Eok8scDS9jZk89yWyfsCBWvDDJKaZy",
         "name": "KRYPTOSCHAIN",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/KryptosChain_Logo.png",
         "shortDescription": "Polkadot Ambassador & early Polkadot Content Creator, known as KryptosChain on Youtube, Twitter, Telegram & Discord",
         "longDescription": "## About me\n\nPolkadot Ambassador and early Polkadot Content Creator.\n\n## Contact me\n\nTelegram: KryptosChain\n\n[Twitter: @KryptosChain](https://twitter.com/KryptosChain)",
+        "isOrganization": false
+    },
+    {
+        "address": "16fbkDCMrAo1uyC52NyA8Y2dETnYVpCofSoj3QEE2WUNnkLk",
+        "name": "INFRASTRUCTURE CORPORATION",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/INFRASTRUCTURE_CORPORATION.png",
+        "shortDescription": "validator | elector | polkadot | kusama",
+        "longDescription": "[INFRASTRUCTURE CORPORATION](https://infrastructurecorporation.com) provides dependable stake nomination and vote delegation targets. Our mission is to contribute foundation under the emerging digital renaissance by providing robust, innovative, and sustainable digital infrastructures that empower individuals and organizations to participate in the unfolding digital age.",
         "isOrganization": false
     },
     {

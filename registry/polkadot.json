@@ -296,6 +296,14 @@
         "isOrganization": false
     },
     {
+        "address": "14g2mcpaEJoMCpnzStbYTTRKcZsWAYeKUzdE8ph6jYCrZuPS",
+        "name": "LucaCrypto",
+        "image": "https://raw.githubusercontent.com/lucadice/opengov-delegate-registry/master/images/Lucacrypto.png",
+        "shortDescription": "Vibing and voting 🕺🗳️ Polkadot Enthusiast 🚀🔵 long time viewer of AAG 👁️📺[Twitter: @NFTsaremyjam](https://twitter.com/NFTsaremyjam)",
+        "longDescription": "Vibing and voting 🕺🗳️ Polkadot Enthusiast 🚀🔵 long time viewer of AAG 👁️📺[Twitter: @NFTsaremyjam](https://twitter.com/NFTsaremyjam)",
+        "isOrganization": false
+    },
+    {
         "address": "16fbkDCMrAo1uyC52NyA8Y2dETnYVpCofSoj3QEE2WUNnkLk",
         "name": "INFRASTRUCTURE CORPORATION",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/INFRASTRUCTURE_CORPORATION.png",

@@ -238,5 +238,13 @@
         "shortDescription": "validator | elector | kusama | polkadot",
         "longDescription": "[INFRASTRUCTURE CORPORATION](https://infrastructurecorporation.com) provides dependable stake nomination and vote delegation targets. Our mission is to contribute foundation under the emerging digital renaissance by providing robust, innovative, and sustainable digital infrastructures that empower individuals and organizations to participate in the unfolding digital age.",
         "isOrganization": false
+    },
+    {
+        "address": "FZ71egMouzdJJhdougGW3KFiLAXsEeSkYwNn5drXSEvH3FM",
+        "name": "Alianza Hispana",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/alianza.png",
+        "shortDescription": "Representamos a la comunidad de habla hispana en el proceso de gobernanza y en la toma de decisiones.",
+        "longDescription": "Este colectivo está formado por personas del ecosistema de Polkadot y Kusama que cuentan con una pluralidad de perfiles, experiencia en el ecosistema y un fuerte compromiso con el bienestar de la red y sus usuarios, unidos bajo la misión de fortalecer y empoderar a nuestra comunidad en el ecosistema de Polkadot y Kusama.  \n[ver mas en el manifiesto](https://cloudflare-ipfs.com/ipfs/QmSW7cLigiMR9wsnmPopE6z4RE1XXdDYd8SebA6A6nwqbJ)",
+        "isOrganization": true
     }
 ]

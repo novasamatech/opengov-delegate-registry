@@ -254,5 +254,13 @@
         "shortDescription": "Validating on Polkadot & Kusama. Actively supporting and contributing to the community via development, utils, education, and advocacy.",
         "longDescription": "**metaspan** is a trusted network infrastructure provider and validator on Polkadot and Kusama.\n\nWe are a team of experienced engineers and developers with a passion for blockchain technology and the Polkadot ecosystem.\n\nWe are actively involved in the community and contribute to the ecosystem via development, utilities, education, and advocacy.\n\nWe are committed to the long-term success of Polkadot and Kusama and are excited to be a part of the journey.",
         "isOrganization": true
+    },
+    {
+        "address": "J19LYGghRCe4Ct3VW4Vz1amMoUgogS1sh2FQvPWroKcDdb1",
+        "name": "SAXEMBERG",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/saxemberg.png",
+        "shortDescription": "Bare metal validator & collator since 2020. OpenGov watchdog. App & DApp development.",
+        "longDescription": "We offer validation and collation sevices since 2020 with our own colocated hardware. OpenGov watchdog. App & dApp developers. We strive for a credible neutral ecosystem in fair terms for everybody. Read more about us at: https://saxemberg.com/about/. The future is decentralized.",
+        "isOrganization": true
     }
 ]

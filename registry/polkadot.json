@@ -326,6 +326,14 @@
         "shortDescription": "Polkadot media and governance.",
         "isOrganization": true
     },
+    {      
+        "address": "1wpTXaBGoyLNTDF9bosbJS3zh8V8D2ta7JKacveCkuCm7s6",
+        "name": "Giotto Brain Governance",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/giotto.png",
+        "shortDescription": "Giotto - DOT activist, support marketing, meme coins, airdrops, BD, anything that can allow Polkadot ecosystem to grow. I value effectiveness more than efficiency",
+        "longDescription": "Giotto - DOT activist, support marketing, meme coins, airdrops, BD, anything that can allow Polkadot ecosystem to grow. I value effectiveness more than efficiency",
+        "isOrganization": false
+    },
     {
         "address": "16ce9zrmiuAtdi9qv1tuiQ1RC1xR6y6NgnBcRtMoQeAobqpZ",
         "name": "metaspan",

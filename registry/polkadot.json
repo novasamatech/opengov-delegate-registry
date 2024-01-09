@@ -349,5 +349,13 @@
         "shortDescription": "Activo en la governanza por el amor a Polkadot",
         "longDescription": "Creo contenido en español y represento a la comunidad hablahispana en la governanza.",
         "isOrganization": false
+    },
+    {
+        "address": "1D51dxpuGv1mWxstx7ERWyEWieLHSeQ8NBVX7VxkxT5PuKg",
+        "name": "ValidOrange.Net",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/ValidOrangeLOGO192x192.png",
+        "shortDescription": "Independent validator operator based in US. Infrastructure experience and active in OpenGov.",
+        "longDescription": "ValidOrange operates Polkadot and Kusama validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem. Decisions posted on X.",
+        "isOrganization": false
     }
 ]

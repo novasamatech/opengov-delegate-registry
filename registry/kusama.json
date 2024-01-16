@@ -262,5 +262,13 @@
         "shortDescription": "Kusama validator. We help you get involved in governance proposals with ease.",
         "longDescription": "If you have no time to follow on-chain governance proposals at least delegate your votes to a experienced user.\n\nWe don't think is sensible to pretend the Treasury is a VC Fund so we only support proposals with skin in the game and added value for Kusama.",
         "isOrganization": false
+    },
+    {
+        "address": "FqoyFHg87YVYvRLGRr2M2x3AZ8SKEt4D7vQb9uPFHnCDN66",
+        "name": "ValidOrange.Net",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/ValidOrangeLOGO192x192.png",
+        "shortDescription": "Independent validator operator based in US. Infrastructure experience and active in OpenGov.",
+        "longDescription": "ValidOrange operates Polkadot and Kusama validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem. Decisions posted on X.",
+        "isOrganization": false
     }
 ]

@@ -357,5 +357,13 @@
         "shortDescription": "Independent validator operator based in US. Infrastructure experience and active in OpenGov.",
         "longDescription": "ValidOrange operates Polkadot and Kusama validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem. Decisions posted on X.",
         "isOrganization": false
+    },
+     {
+        "address": "16htP3atjNbcaZXx1owdKehUPn3zb6oVEcj8s43bbXycXujL",
+        "name": "🌀 The Center Party 🌀",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/the-center-party.png",
+        "shortDescription": "Championing balanced growth through strategic marketing and prudent spending.",
+        "longDescription": "Seeking to fund reasonable marketing proposals where the value prop can clearly be defined, and aim to hold recepients of funding accountable for their deliverables.",
+        "isOrganization": false
     }
 ]

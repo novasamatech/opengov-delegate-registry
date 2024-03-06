@@ -1,7 +1,7 @@
 name: Telegram Pull Request Notifier
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, review_requested]
 
 jobs:

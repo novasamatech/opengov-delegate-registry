@@ -9,8 +9,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Pull Request Telegram
-        uses: F2had/pr-telegram-action@v1.0.0
-        with: 
-          bot_token: '${{ secrets.TELEGRAM_TOKEN }}'
-          chat_id: '${{ secrets.TELEGRAM_CHAT_ID }}'
+      - name: Report
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            🚀 New PR in opengov registry, please review @SoloCrack
+
+              PR: ${{ github.event.pull_request.html_url }}

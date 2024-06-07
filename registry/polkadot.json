@@ -381,5 +381,13 @@
         "shortDescription": "Web3 Delegation",
         "longDescription": "The Sons of Gavin is operated by TheeWeb3Patriot, It is a web3 centered delagate that holds values of being treasury conservatives.",
         "isOrganization": false
+    },
+    {
+        "address": "1jPw3Qo72Ahn7Ynfg8kmYNLEPvHWHhPfPNgpJfp5bkLZdrF",
+        "name": "Jimmy Tudeski - Stakenode",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/Jimmy%20Profile%20.png",
+        "shortDescription": "Polkadot Resident, Ambassador, and Validator - https://x.com/stakenode_dev",
+        "longDescription": "An experienced and principled Polkadot governance delegate dedicated to strategic development, community engagement, and fostering long-term ecosystem growth. Your representative for the inclusive and democratic OpenGov on Polkadot. Delegate Your votes, relax, and watch the ecosystem grow. ",
+        "isOrganization": false
     }
 ]

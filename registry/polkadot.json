@@ -358,7 +358,7 @@
         "longDescription": "ValidOrange operates Polkadot and Kusama validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem.",
         "isOrganization": false
     },
-     {
+    {
         "address": "16htP3atjNbcaZXx1owdKehUPn3zb6oVEcj8s43bbXycXujL",
         "name": "🌀 The Center Party 🌀",
         "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/the-center-party.png",
@@ -388,6 +388,13 @@
         "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/Jimmy%20Profile%20.png",
         "shortDescription": "Polkadot Resident, Ambassador, and Validator - https://x.com/stakenode_dev",
         "longDescription": "An experienced and principled Polkadot governance delegate dedicated to strategic development, community engagement, and fostering long-term ecosystem growth. Your representative for the inclusive and democratic OpenGov on Polkadot. Delegate Your votes, relax, and watch the ecosystem grow. ",
+        "isOrganization": false
+    },
+    {
+        "address": "14V7E1yX4HE6LXu2f9ubLuJ9o8N8GuwUyUEspvinuZsVPpXi",
+        "name": "Jeeper",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/jeeper_delegate.png",
+        "shortDescription": "Governance Researcher @opengov.watch",
         "isOrganization": false
     }
 ]

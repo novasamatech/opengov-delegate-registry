@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "address": "0xd9284b6cf364b4e631daa60ca4ee0645e4196592",
+        "name": "Ho Si Hanh",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/448670577_7858088524251832_3017251577156150975_n.jpg",
+        "shortDescription": "Polkadot",
+        "longDescription": "Network validation.",
+        "isOrganization": false
+    },
+]

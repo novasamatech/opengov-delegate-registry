@@ -404,5 +404,13 @@
         "shortDescription": "Polkadot Poland DAO – Representing the Polish community in Polkadot OpenGov",
         "longDescription": "Polkadot Poland DAO is committed to representing the interests of the Polish community within the Polkadot ecosystem through active participation in OpenGov. We are dedicated to casting votes that promote the sustainable growth and long-term success of the Polkadot ecosystem with a focus on the values of decentralization, transparency, and community engagement. While our roots are in the Polish blockchain community, we warmly welcome everyone who shares our vision to delegate their votes to us. We encourage participation by providing a platform for discussion and education on governance proposals. Delegate Your votes and join the Polkadot Poland DAO - https://discord.gg/wRKSpMEGZZ",
         "isOrganization": true
+    },
+    {
+        "address": "15akZwzufEzFzfh18y4Q81Ci8TXyvH6hyUkRrxJED2MjEYhe",
+        "name": "LV",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/lv-longhair-192x192.jpg",
+        "shortDescription": "I usually vote on Fridays, before breakfast",
+        "longDescription": "Pirate navigating the seas of OpenGov 🏴‍☠️—voting on cool stuff whenever I can. I run the largest Polkadot content portal & ecosystem wiki too - https://dablock.com",
+        "isOrganization": false
     }
 ]

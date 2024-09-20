@@ -408,9 +408,9 @@
         {
         "address": "15akZwzufEzFzfh18y4Q81Ci8TXyvH6hyUkRrxJED2MjEYhe",
         "name": "LV",
-        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/refs/heads/master/images/lv-longhair-192x192.jpg",
+        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/lv-longhair-192x192.jpg",
         "shortDescription": "I usually vote on Fridays, before breakfast",
-        "longDescription": "Navigating the seas of OpenGov—voting on what matters whenever I can. I run the largest Polkadot content portal too - https://dablock.com",
+        "longDescription": "Pirate navigating the seas of OpenGov 🏴‍☠️—voting on cool stuff whenever I can. I run the largest Polkadot content portal & ecosystem wiki too - https://dablock.com",
         "isOrganization": false
     }
 ]

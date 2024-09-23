@@ -416,7 +416,7 @@
     {
     "address": "14fp9FUSaeRpLJ8i7pDmNy7zVZNiZnNmDJ1bHEaZpXPqb1AX",
     "name": "treebtc", 
-    "image": "https://raw.githubusercontent.com/asggWa/opengov-delegate-registry/refs/heads/master/images/20240923_083455_0000.png"    ,
+    "image": "https://raw.githubusercontent.com/asggWa/opengov-delegate-registry/master/images/20240923_083455_0000.png"    ,
     "shortDescription": "I am Alfonso from Meblillo TreeBTC Laboratories and I am here to make everything run smoothly.",
     "longDescription": " I am Alfonso from TreeBTC Laboratories and I am here to make everything run smoothly. My job these years was to implement a local environment on my desktop based on rust and until my computer broke, I had managed to make some simple contracts on the evm network thanks to chainide and I almost had it in rust cin substrate. If all goes well, soon that will be done and we will be working on wonderful things. Do you want to work together on governance? Delegate some dot!" ,
     "isOrganization": false

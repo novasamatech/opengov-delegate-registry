@@ -7,4 +7,12 @@
         "longDescription": "Network validation.",
         "isOrganization": false
     },
+    {
+        "address": "0x63B378002354efE8e6F20554b85A098CdB5F4602",
+        "name": "🛡️✨ Yaron MGG ✨🛡️",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/y_192x192.png",
+        "shortDescription": "Moonbeam Governance Guild member Yaron",
+        "longDescription": "As a MGG member with 1m GLMR in MB Foundation delegations I'll do my very best to vote in the token holders best interest & for a flourishing ecosystem 💫 with strong protection 🛡️ from malintent! All delegations are helpful and most welcome <3",
+        "isOrganization": false
+    }
 ]

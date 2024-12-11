@@ -1,9 +1,9 @@
 [
   {
-        "address": "0x0208e42ef2adc5086c1bf50c679da47b90d83a69",
-        "name": "Djo",
-        "image": "https://github.com/Sebatron777/opengov-delegate-registry/blob/master/images/----------------------------------------%20(1).png",
-        "shortDescription": "Moonbeam Governance Guild member",
-        "isOrganization": false
-    },
+    "address": "0x0208e42ef2adc5086c1bf50c679da47b90d83a69",
+    "name": "Djo",
+    "image": "https://github.com/Sebatron777/opengov-delegate-registry/blob/master/images/djo.png",
+    "shortDescription": "Moonbeam Governance Guild member",
+    "isOrganization": false
+  }
 ]

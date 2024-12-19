@@ -428,5 +428,13 @@
     "shortDescription": "I am Alfonso from Meblillo TreeBTC Laboratories and I am here to make everything run smoothly.",
     "longDescription": " I am Alfonso from TreeBTC Laboratories and I am here to make everything run smoothly. My job these years was to implement a local environment on my desktop based on rust and until my computer broke, I had managed to make some simple contracts on the evm network thanks to chainide and I almost had it in rust cin substrate. If all goes well, soon that will be done and we will be working on wonderful things. Do you want to work together on governance? Delegate some dot!" ,
     "isOrganization": false
-   }
+   },
+  {
+    "address": "1nWZt3atgj2p9pPS2SR7m2yp1DFEciapnvaVDJj9VPrGHR7",
+    "name": "Fluffy Labs DAO",
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/fluffy_logo.png",
+    "shortDescription": "Fluffy Labs is a Wrocław-based organization within the Polkadot ecosystem, focusing on blockchain technology and its evolution.",
+    "longDescription": "Fluffy Labs is a Wrocław-based organization within the Polkadot ecosystem, focusing on blockchain technology and its evolution.",
+    "isOrganization": true
+  },
 ]

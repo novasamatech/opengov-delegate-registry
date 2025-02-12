@@ -286,5 +286,13 @@
     "shortDescription": "Le Nexus is a French association governed by the 1908 law, with a specific internal voting process and a Multisig to manage OpenGov referendums.",
     "longDescription": "## About us\nLe Nexus is a space dedicated to the French-speaking community within the Polkadot ecosystem, bringing together active and engaged members in the governance and development of the network.\n\n Our collective is composed of individuals from both Polkadot and Kusama, with diverse backgrounds and solid experience within the ecosystem. We share a common commitment to the well-being of the network and its users, while working to strengthen and empower our community. \n\n With a clear ambition to become a major influential force in OpenGov, we are committed to the long-term success of Polkadot and Kusama, and we are proud to actively contribute to this collective journey.\n\n**Social Networks:**\n -[Website](https://lenexus.org)\n -[X](https://x.com/lenexus_org)\n -[Discord](https://discord.gg/entxwA7Xda)\n -[Telegram](https://t.me/lenexus_org)\n -[GitHub](https://github.com/leNexusFr)",
     "isOrganization": true
+  },
+  {
+    "address": "FcRKM4GPPzPuiAJYTdK8XeV4FtwXcuBVFSRQ7hJHqhjeCH2",
+    "name": "Polkadot Italia",
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Polkadot_Italia_DAO.png",
+    "shortDescription": "Polkadot Italia rapresents the vibrant Italian community within the Kusama OpenGov.",
+    "longDescription": "Polkadot Italia rappresenta gli interessi della comunità italiana all'interno dell'ecosistema attraverso una partecipazione attiva in OpenGov. Grazie al vostro coinvolgimento, puntiamo al successo a lungo termine dell'ecosistema Polkadot e Kusama. Delega i tuoi voti e unisciti a Polkadot Italia.",
+    "isOrganization": true
   }
 ]

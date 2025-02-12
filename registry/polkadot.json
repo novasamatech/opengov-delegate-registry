@@ -436,5 +436,13 @@
     "shortDescription": "Fluffy Labs is a Wrocław-based organization within the Polkadot ecosystem, focusing on blockchain technology and its evolution.",
     "longDescription": "Fluffy Labs is a Wrocław-based organization within the Polkadot ecosystem, focusing on blockchain technology and its evolution.",
     "isOrganization": true
+  },
+  {
+    "address": "1436oMyTcpEwbbMNjPsGNj7dmHcMRFe97NLAAkQhN8Wm5ffy",
+    "name": "Polkadot Italia 🇮🇹",
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/Polkadot_Italia_DAO.png",
+    "shortDescription": "Polkadot Italia rapresents the vibrant Italian community within the Polkadot OpenGov.",
+    "longDescription": "Polkadot Italia rappresenta gli interessi della comunità italiana all'interno dell'ecosistema attraverso una partecipazione attiva in OpenGov. Grazie al vostro coinvolgimento, puntiamo al successo a lungo termine dell'ecosistema Polkadot. Delega i tuoi voti e unisciti a Polkadot Italia.",
+    "isOrganization": true
   }
 ]

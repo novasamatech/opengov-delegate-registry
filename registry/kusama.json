@@ -294,13 +294,5 @@
     "shortDescription": "Polkadot Italia rapresents the vibrant Italian community within the Kusama OpenGov.",
     "longDescription": "Polkadot Italia rappresenta gli interessi della comunità italiana all'interno dell'ecosistema attraverso una partecipazione attiva in OpenGov. Grazie al vostro coinvolgimento, puntiamo al successo a lungo termine dell'ecosistema Polkadot e Kusama. Delega i tuoi voti e unisciti a Polkadot Italia.",
     "isOrganization": true
-  },
-  {
-    "address": “H56ErZytjWzRtXLpBZEB3gcNm7k7HhVCvctYMzQHLRibtNP”, 
-    "name": “ValidAndina”, 
-    "image": “https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/ValidAndina-florentina57.png”, 
-    "shortDescription": “I'm florentina57. Validator Operator @ValidAndina. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español).”, 
-    "longDescription": "I'm florentina57. Validator Operator at 🌎 ValidAndina 🏔️. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español). [@validandina](https://x.com/validandina)”, 
-    "isOrganization": false
   }
 ]

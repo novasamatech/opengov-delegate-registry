@@ -1,18 +1,18 @@
 [
-    {
-        "address": "0xd9284b6cf364b4e631daa60ca4ee0645e4196592",
-        "name": "Ho Si Hanh",
-        "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/448670577_7858088524251832_3017251577156150975_n.jpg",
-        "shortDescription": "Polkadot",
-        "longDescription": "Network validation.",
-        "isOrganization": false
-    },
-    {
-        "address": "0x63B378002354efE8e6F20554b85A098CdB5F4602",
-        "name": "🛡️✨ Yaron MGG ✨🛡️",
-        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/y_192x192.png",
-        "shortDescription": "Moonbeam Governance Guild member Yaron",
-        "longDescription": "As a MGG member with 1m GLMR in MB Foundation delegations I'll do my very best to vote in the token holders best interest & for a flourishing ecosystem 💫 with strong protection 🛡️ from malintent! All delegations are helpful and most welcome <3",
-        "isOrganization": false
-    }
+  {
+    "address": "0xd9284b6cf364b4e631daa60ca4ee0645e4196592",
+    "name": "Ho Si Hanh",
+    "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/448670577_7858088524251832_3017251577156150975_n.jpg",
+    "shortDescription": "Polkadot",
+    "longDescription": "Network validation.",
+    "isOrganization": false
+  },
+  {
+    "address": "0x63B378002354efE8e6F20554b85A098CdB5F4602",
+    "name": "🛡️✨ Yaron MGG ✨🛡️",
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/y_192x192.png",
+    "shortDescription": "Moonbeam Governance Guild member Yaron",
+    "longDescription": "As a MGG member with 1m GLMR in MB Foundation delegations I'll do my very best to vote in the token holders best interest & for a flourishing ecosystem 💫 with strong protection 🛡️ from malintent! All delegations are helpful and most welcome <3",
+    "isOrganization": false
+  }
 ]

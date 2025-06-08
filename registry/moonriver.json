@@ -2,7 +2,8 @@
   {
     "address": "0x0208e42ef2adc5086c1bf50c679da47b90d83a69",
     "name": "Djo",
-    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/djo.png",
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master
+    /images/djo.png",
     "shortDescription": "Moonbeam Governance Guild member",
     "isOrganization": false
   }

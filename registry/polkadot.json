@@ -112,11 +112,11 @@
     "isOrganization": true
   },
   {
-    "address": "153YD8ZHD9dRh82U419bSCB5SzWhbdAFzjj4NtA5pMazR2yC",
+    "address": "11fx8xKPNd4zVSBxkpN8qhhaGEmNJvPgKqwhDATZQXs7dkM",
     "name": "SAXEMBERG",
-    "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/organization_default.png",
-    "shortDescription": "We offer validation and collation services of our nominators on the Kusama and Polkadot ecosystem. In addition, we are currently developing dapps on the same ecosystem.",
-    "longDescription": "We offer validation and collation services of our nominators on the Kusama and Polkadot ecosystem. In addition, we are currently developing dapps on the same ecosystem. We strive for a credible neutral ecosystem in fair terms for everybody. So we don't ever plan on exploiting consensus rules on blockchains or seek to exploit blockchains with misconfigured parameters. Read more at : https://saxemberg.com/about/.",
+    "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/saxemberg.png",
+    "shortDescription": "Global Infrastructure for Blockchain & AI. Supporting the next generation of groundbreaking tech. The future is decentralized.",
+    "longDescription": "Our OpenGov approach can be better understood by our guidelines and directives at: https://saxemberg.com/guidelines/.",
     "isOrganization": true
   },
   {

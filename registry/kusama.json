@@ -302,5 +302,13 @@
     "shortDescription": "I'm florentina57. Validator Operator @ValidAndina. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español).", 
     "longDescription": "I'm florentina57. Validator Operator at 🌎 ValidAndina 🏔️. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español). [@validandina](https://x.com/validandina)", 
     "isOrganization": false
+  },
+  {
+    "address": "HcEbeTviCK33EddVN3mfJ6WymWLyKfFuekjhjn5PFirjJ5F", 
+    "name": "SAXEMBERG", 
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/saxemberg.png", 
+    "shortDescription": "Global Infrastructure for Blockchain & AI. Supporting the next generation of groundbreaking tech. The future is decentralized.", 
+    "longDescription": "Our OpenGov approach can be better understood by our guidelines and directives at: https://saxemberg.com/guidelines/.", 
+    "isOrganization": true
   }
 ]

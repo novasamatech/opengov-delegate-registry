@@ -302,5 +302,13 @@
     "shortDescription": "I'm florentina57. Validator Operator @ValidAndina. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español).", 
     "longDescription": "I'm florentina57. Validator Operator at 🌎 ValidAndina 🏔️. Active in OpenGov. Participating in AAG (Kusama, Polkadot & Español). [@validandina](https://x.com/validandina)", 
     "isOrganization": false
+  },
+    {
+    "address": "GqQscMHBeweghw3Eowmz6NtxcQCsQ6PhuDqM5uwes2Zre85", 
+    "name": "TheGlobedotters", 
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/TheG_Logo.png", 
+    "shortDescription": "We are here to Nay all nonsense", 
+    "longDescription": "We are here to Nay all nonsense. Our sole focus is fostering strong and sustainable growth for the ecosystem as the best web3 infrastructure.", 
+    "isOrganization": true
   }
 ]

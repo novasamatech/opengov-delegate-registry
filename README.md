@@ -44,6 +44,8 @@ To share your information, please create a JSON file with the following format:
 - `isOrganization`: A boolean value indicating whether you are an individual or an organization.
 
 ## Pull requests
+> [!IMPORTANT]  
+> Due to migration from Polkadot/Kusama relay networks we accept PRs to Polkadot/Kusama Asset Hub networks respectively.
 
 Please submit your information as a pull request to this repository. We will review your submission and add it to the directory once approved.
 [Tutorial](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) are available in our wiki.

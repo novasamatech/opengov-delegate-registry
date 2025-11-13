@@ -313,9 +313,9 @@
   },
   {
     "address": "DV7b5AL9zNbsnQ8CWCwvw2tzc3pz74EVDLGQdNU1tujA2L5", 
-    "name": "Hyperspeed", 
-    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/hyperspeed_192.192.png", 
-    "shortDescription": "DOT KSM Validator and Collator", 
+    "name": "Hyperspeed⏩", 
+    "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/hyperspeed_192x192.png", 
+    "shortDescription": "Validator, collator and RPC node operator", 
     "longDescription": "Providing Web3 infrastructure for the Polkadot and Kusama ecosystem", 
     "isOrganization": true
   }

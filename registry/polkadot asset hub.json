@@ -484,5 +484,13 @@
     "shortDescription": "Validator, collator and RPC node operator", 
     "longDescription": "Providing Web3 infrastructure for the Polkadot and Kusama ecosystem", 
     "isOrganization": true
+  },
+  {
+    "address": "13GEk517q2rDtrRKC1yormR2Aj5enhR9nkV1VwAygmxsf7vf",
+    "name": "xcRom1",
+    "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/xcrom1.png",
+    "shortDescription": "Polkadot builder. OpenGov delegate on Polkadot and Kusama. Decentralization first, treasury accountability always.",
+    "longDescription": "Polkadot builder. OpenGov delegate on Polkadot and Kusama. Decentralization first, treasury accountability always.",
+    "isOrganization": false
   }
 ]
